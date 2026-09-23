@@ -1,0 +1,15 @@
+{
+  "name": "kit-pedroza",
+  "owner": {
+    "name": "Francisco Sebastian Pedroza"
+  },
+  "description": "Marketplace de las skills propias de Francisco Sebastian Pedroza. Complementa a kit-chema.",
+  "plugins": [
+    {
+      "name": "kit-pedroza",
+      "source": "./",
+      "description": "Cinco skills (kit-mercadotecnia, kit-cv, handoff, auditoria-presentaciones, auditoria-git) y un hook opcional de aviso sonoro.",
+      "license": "MIT"
+    }
+  ]
+}
