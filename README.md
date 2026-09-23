@@ -22,7 +22,7 @@ Dentro de Claude Code:
 ```
 /plugin marketplace add chemaw8/claude-kit-chema
 /plugin install kit-chema@kit-chema
-/plugin marketplace add <usuario>/kit-pedroza
+/plugin marketplace add FSPR2005/kit-pedroza
 /plugin install kit-pedroza@kit-pedroza
 ```
 
