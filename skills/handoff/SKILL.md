@@ -121,6 +121,4 @@ No se sustituyen:
 
 ## Nota de gobernanza
 
-Skill personal, fuera del repo gobernado `claude-kit-chema`. No modifica ninguna
-skill del kit. Si se decide incorporarla al kit, entra como PR en borrador
-revisado por council, según GOBERNANZA.md.
+Skill personal. Todo cambio entra por el repo `kit-pedroza` y viaja por su marketplace.

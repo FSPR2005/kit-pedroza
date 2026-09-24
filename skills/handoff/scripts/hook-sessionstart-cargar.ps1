@@ -1,4 +1,4 @@
-﻿# hook-sessionstart-cargar.ps1 - Kit Chema / skill handoff
+﻿# hook-sessionstart-cargar.ps1 - kit-pedroza / skill handoff
 # Hook SessionStart (matchers: clear, startup, compact).
 # Busca HANDOFF.md en la carpeta de trabajo y lo entrega a la sesion nueva por
 # hookSpecificOutput.additionalContext. Asi, despues de /clear, la sesion

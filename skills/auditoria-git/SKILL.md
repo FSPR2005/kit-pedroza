@@ -99,9 +99,4 @@ repo mismo: no sale del equipo, no se pega en herramientas externas.
 
 ## Nota de gobernanza
 
-Esta skill es una adición personal, igual que `auditoria-presentaciones` —
-no modifica `kit-codigo` ni `kit-automatizacion` ni ningún archivo del repo
-`claude-kit-chema`. Si se quiere que sea parte del kit compartido (para que
-`instalar.sh` la instale automáticamente a cualquier persona del equipo),
-eso es un cambio al repo gobernado y pasa por PR + council según
-`GOBERNANZA.md` — no se hizo aquí a propósito.
+Skill personal. Todo cambio entra por el repo `kit-pedroza` y viaja por su marketplace.

@@ -1,13 +1,13 @@
 ---
 name: auditoria-presentaciones
 license: MIT
-description: Auditoría de presentaciones basada en un rubric académico de comunicación gerencial (DHG, ITAM) más el Pyramid Principle de Minto. Úsala como paso final después de terminar cualquier deck, antes de darlo por listo, para revisar estructura, mensajes-título, regla de tres y cierre. Úsala también como fuente de estructura antes de escribir la primera lámina. Complementa a kit-presentaciones — no lo sustituye ni lo reemplaza.
+description: Auditoría de presentaciones basada en un rubric académico de comunicación gerencial (DHG, ITAM) más el Pyramid Principle de Minto. Úsala como paso final después de terminar cualquier deck, antes de darlo por listo, para revisar estructura, mensajes-título, regla de tres y cierre. Úsala también como fuente de estructura antes de escribir la primera lámina. Complementa a la skill de presentaciones que tengas instalada — no la sustituye.
 ---
 
 # Auditoría de presentaciones — rubric DHG + Pyramid Principle
 
-Checklist de segunda opinión para decks. No reemplaza a `kit-presentaciones` (esa
-sigue siendo la skill que manda: audiencia y objetivo primero, diseño al final).
+Checklist de segunda opinión para decks. No reemplaza a la skill de presentaciones (esa
+sigue siendo la que manda: audiencia y objetivo primero, diseño al final).
 Esta skill se corre **encima**, en dos momentos posibles:
 
 1. **Al terminar un deck** — antes de decir "listo", corre el checklist de abajo
@@ -93,8 +93,7 @@ revisar si ese dato debía decirse frente a ESA audiencia.
 - ¿Se anticipa la estructura del argumento que sigue?
 
 **Estructura**
-- ¿Cada sección del argumento está claramente demarcada (una idea por lámina,
-  ver `kit-presentaciones`)?
+- ¿Cada sección del argumento está claramente demarcada (una idea por lámina)?
 - ¿Hay transiciones explícitas entre ideas ("Pero", "Y también", "Entonces") en
   vez de saltos silenciosos?
 - Ideas de un mismo nivel: ¿son del mismo tipo (todas razones, todos pasos,
@@ -112,8 +111,8 @@ revisar si ese dato debía decirse frente a ESA audiencia.
   de este argumento.
 
 **Contenido**
-- ¿Toda cifra o afirmación de peso tiene fuente visible (ya lo exige
-  `kit-presentaciones`, esto lo refuerza)?
+- ¿Toda cifra o afirmación de peso tiene fuente visible (la skill de
+  presentaciones ya lo exige; esto lo refuerza)?
 - ¿El argumento central es específico y defendible, no una generalidad?
 
 **Regla de tres**
@@ -140,7 +139,7 @@ revisar si ese dato debía decirse frente a ESA audiencia.
 
 El rubric de origen pesa fuerte la entrega en vivo (delivery: tono, contacto
 visual, gestos — hasta 40% del puntaje) y el manejo de Q&A. Un deck HTML que
-"se sostiene sin narrador" (regla de `kit-presentaciones`) no se audita en eso.
+"se sostiene sin narrador" (regla de la skill de presentaciones) no se audita en eso.
 Pero si el deck se va a **presentar en vivo** (no solo enviar), vale la pena
 dejar un párrafo aparte — en el README del proyecto, no en las láminas — con
 2-3 notas de entrega: dónde bajar el ritmo, qué lámina es la más fácil de
@@ -149,9 +148,4 @@ si lo hay.
 
 ## Nota de gobernanza
 
-Esta skill es una adición personal, no una modificación de `kit-presentaciones`
-ni de ningún archivo del repo `claude-kit-chema`. Si en algún momento se quiere
-que el checklist de `kit-presentaciones` cite este rubric directamente dentro
-de su propio archivo, ese cambio sí tocaría el kit gobernado y necesitaría
-pasar por el proceso de PR + council descrito en `GOBERNANZA.md` — no se hizo
-aquí a propósito.
+Skill personal. Todo cambio entra por el repo `kit-pedroza` y viaja por su marketplace.

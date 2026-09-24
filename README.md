@@ -1,8 +1,6 @@
 # kit-pedroza
 
-Skills propias que **complementan** al [Kit Chema](https://github.com/chemaw8/claude-kit-chema).
-No lo reemplazan: las 9 skills base se siguen instalando desde el marketplace de Chema, y
-este repo trae solo lo que no está allá. Así cada skill tiene una sola fuente.
+Skills propias. Cada una tiene una sola fuente: este repo.
 
 | Skill | Para qué |
 |---|---|
@@ -20,8 +18,6 @@ terminar cada turno, solo para Windows.
 Dentro de Claude Code:
 
 ```
-/plugin marketplace add chemaw8/claude-kit-chema
-/plugin install kit-chema@kit-chema
 /plugin marketplace add FSPR2005/kit-pedroza
 /plugin install kit-pedroza@kit-pedroza
 ```

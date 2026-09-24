@@ -1,4 +1,4 @@
-﻿# hook-sessionend-red.ps1 — Kit Chema / skill handoff
+﻿# hook-sessionend-red.ps1 — kit-pedroza / skill handoff
 # Hook SessionEnd (matcher: clear). Red de seguridad: si la sesion se limpia
 # SIN traspaso reciente, deja un puntero al transcript para poder recuperarla.
 # No copia el transcript: /clear no lo borra y la conversacion se recupera con

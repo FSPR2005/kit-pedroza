@@ -1,4 +1,4 @@
-﻿# lib-contexto.ps1 - Kit Chema / skill handoff
+﻿# lib-contexto.ps1 - kit-pedroza / skill handoff
 # Funciones compartidas por los tres hooks. No ejecuta nada por si mismo.
 # Sin acentos a proposito: PowerShell 5.1 los rompe si el archivo pierde el BOM.
 

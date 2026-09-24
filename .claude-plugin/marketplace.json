@@ -3,7 +3,7 @@
   "owner": {
     "name": "Francisco Sebastian Pedroza"
   },
-  "description": "Marketplace de las skills propias de Francisco Sebastian Pedroza. Complementa a kit-chema.",
+  "description": "Marketplace de las skills propias de Francisco Sebastian Pedroza.",
   "plugins": [
     {
       "name": "kit-pedroza",

@@ -1,4 +1,4 @@
-﻿# hook-stop-aviso.ps1 - Kit Chema / skill handoff
+﻿# hook-stop-aviso.ps1 - kit-pedroza / skill handoff
 # Hook Stop. Mide el contexto vivo al cerrar cada turno y actua en dos escalones:
 #   AMARILLO -> systemMessage al usuario. No interrumpe nada.
 #   ROJO     -> additionalContext: Claude sigue el turno y escribe el traspaso

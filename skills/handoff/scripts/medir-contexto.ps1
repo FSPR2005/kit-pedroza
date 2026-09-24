@@ -1,4 +1,4 @@
-﻿# medir-contexto.ps1 - Kit Chema / skill handoff
+﻿# medir-contexto.ps1 - kit-pedroza / skill handoff
 # Uso manual: cuanto contexto lleva consumido la sesion.
 #   powershell -NoProfile -File "$env:USERPROFILE\.claude\skills\handoff\scripts\medir-contexto.ps1"
 # Sin -TranscriptPath toma el transcript principal mas reciente (ignora subagentes).

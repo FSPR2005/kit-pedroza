@@ -1,15 +1,15 @@
 ---
 name: kit-cv
 license: MIT
-description: 'Estándar Kit Chema para currículums y materiales de candidatura — CV personalizado por vacante, carta de presentación pareada y perfil de LinkedIn derivado del mismo banco de logros. Úsala al pedir "hazme mi CV", "actualiza mi currículum", "adapta el CV a esta vacante", "escríbeme una carta de presentación", "mejora mi LinkedIn", o al revisar el CV de un candidato. El flujo es fijo: primero entender el puesto al que va la persona, luego pedirle el CV anterior y todo insumo que ya exista, luego entrevistarla por bloques para sacar la mayor información posible, y solo entonces escribir. Obliga a construir un banco de logros verificables antes de escribir una sola línea, a personalizar contra el texto de la vacante en vez de cambiar el nombre de la empresa, y a comprobar que un ATS puede leer el archivo. Cuándo no usarla — si el trabajo es convencer de una decisión o pedir aprobación → kit-propuestas; si es solo el correo con el que se envía la postulación → kit-redaccion; si el resultado es un deck o portafolio con identidad visual → kit-presentaciones.'
+description: 'Estándar para currículums y materiales de candidatura — CV personalizado por vacante, carta de presentación pareada y perfil de LinkedIn derivado del mismo banco de logros. Úsala al pedir "hazme mi CV", "actualiza mi currículum", "adapta el CV a esta vacante", "escríbeme una carta de presentación", "mejora mi LinkedIn", o al revisar el CV de un candidato. El flujo es fijo: primero entender el puesto al que va la persona, luego pedirle el CV anterior y todo insumo que ya exista, luego entrevistarla por bloques para sacar la mayor información posible, y solo entonces escribir. Obliga a construir un banco de logros verificables antes de escribir una sola línea, a personalizar contra el texto de la vacante en vez de cambiar el nombre de la empresa, y a comprobar que un ATS puede leer el archivo. Cuándo no usarla — si el trabajo es convencer de una decisión o pedir aprobación → la skill de propuestas; si es solo el correo con el que se envía la postulación → la skill de redacción; si el resultado es un deck o portafolio con identidad visual → la skill de presentaciones.'
 ---
 
-# Currículums y candidatura — estándar Kit Chema
+# Currículums y candidatura
 
 Playbook para el CV y lo que lo acompaña: carta de presentación y perfil de
 LinkedIn. Dos disciplinas ya viven fuera y no se repiten aquí: definir audiencia
-y objetivo antes de escribir (kit-presentaciones) y redactar el correo de envío
-(kit-redaccion).
+y objetivo antes de escribir (la skill de presentaciones) y redactar el correo de envío
+(la skill de redacción).
 
 Esta skill cubre lo que Claude hace mal por defecto en un CV: infla logros que
 nadie le dio, escribe responsabilidades en lugar de resultados, entrega el mismo
@@ -169,4 +169,4 @@ Antes de decir que está listo, con el archivo abierto delante:
 - **Carta que es el CV en prosa.** Repetir el mismo contenido sin agregar el
   porqué de esta vacante.
 - **Confundir el terreno vecino.** Convertir el CV en un deck de portafolio
-  (kit-presentaciones) o el correo de postulación en una propuesta (kit-propuestas).
+  (la skill de presentaciones) o el correo de postulación en una propuesta (la skill de propuestas).

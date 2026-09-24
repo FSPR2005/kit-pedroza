@@ -1,7 +1,7 @@
 {
   "name": "kit-pedroza",
-  "version": "0.1.1",
-  "description": "Skills propias que complementan al Kit Chema: mercadotecnia e investigación de mercado, currículum, traspaso entre sesiones, auditoría de presentaciones y auditoría de git. Se instala junto al marketplace kit-chema, no en su lugar.",
+  "version": "0.1.2",
+  "description": "Skills propias: mercadotecnia e investigación de mercado, currículum, traspaso entre sesiones, auditoría de presentaciones y auditoría de git.",
   "author": {
     "name": "Francisco Sebastian Pedroza"
   },

@@ -1,10 +1,10 @@
 ---
 name: kit-mercadotecnia
 license: MIT
-description: Estándar Kit Chema para mercadotecnia e investigación de mercado — evaluar una oportunidad comercial, dimensionar un mercado y su demanda, segmentar y posicionar, decidir producto/precio/canal/comunicación, o diseñar un estudio de mercado. Úsala al pedir "investigación de mercado", "dimensiona este mercado", "cómo segmento", "qué estudio necesito", "evalúa esta oportunidad de negocio", "sugerencias de marketing para". Basada en Kotler & Armstrong (18.ª ed.) y las fuentes de FUENTES.md; agnóstica de empresa — el contexto del cliente entra por la conversación y nunca se guarda dentro de la skill.
+description: Estándar para mercadotecnia e investigación de mercado — evaluar una oportunidad comercial, dimensionar un mercado y su demanda, segmentar y posicionar, decidir producto/precio/canal/comunicación, o diseñar un estudio de mercado. Úsala al pedir "investigación de mercado", "dimensiona este mercado", "cómo segmento", "qué estudio necesito", "evalúa esta oportunidad de negocio", "sugerencias de marketing para". Basada en Kotler & Armstrong (18.ª ed.) y las fuentes de FUENTES.md; agnóstica de empresa — el contexto del cliente entra por la conversación y nunca se guarda dentro de la skill.
 ---
 
-# Mercadotecnia — sugerencias con marco y con fuente (Kit Chema)
+# Mercadotecnia — sugerencias con marco y con fuente
 
 Playbook para convertir una pregunta de negocio en sugerencias de mercadotecnia
 e investigación de mercado con respaldo teórico. La regla que sostiene todo:
@@ -21,8 +21,8 @@ marco sin dato es teoría — el entregable une los dos.
 - El contexto de la empresa consultada vive en la conversación o en la carpeta
   del proyecto — jamás dentro de esta skill (ver Anti-contaminación).
 - Los números se recalculan, nunca se aceptan de memoria: dimensionamientos y
-  proyecciones pasan por kit-finanzas; la búsqueda y verificación de fuentes
-  externas pasa por kit-research.
+  proyecciones pasan por la skill de finanzas; la búsqueda y verificación de
+  fuentes externas pasa por la skill de investigación.
 - Las sugerencias van priorizadas: qué estudio o decisión va primero según el
   costo de obtener la información y qué desbloquea.
 
@@ -86,9 +86,8 @@ Esta skill es agnóstica de empresa y así debe seguir:
 - **Vigencia**: los reportes de tendencias (Euromonitor y similares) caducan
   cada año — al usar el módulo 03, verifica que la edición citada siga siendo
   la más reciente y sugiere actualizarla si no.
-- Cambios de fondo o su adopción en el kit oficial (repo claude-kit-chema)
-  siguen GOBERNANZA.md: PR en borrador revisado por council, nunca commit
-  directo.
+- Los cambios de fondo entran por el repo `kit-pedroza`, nunca editando la
+  copia instalada en una máquina.
 
 ## Checklist final
 
