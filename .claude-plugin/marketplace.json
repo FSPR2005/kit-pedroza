@@ -8,7 +8,7 @@
     {
       "name": "kit-pedroza",
       "source": "./",
-      "description": "Cinco skills (kit-mercadotecnia, kit-cv, handoff, auditoria-presentaciones, auditoria-git) y un hook opcional de aviso sonoro.",
+      "description": "Seis skills (kit-mercadotecnia, kit-cv, handoff, auditoria-presentaciones, auditoria-git, revisar-push), un gate de push opcional y un hook opcional de aviso sonoro.",
       "license": "MIT"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "name": "kit-pedroza",
-  "version": "0.1.2",
-  "description": "Skills propias: mercadotecnia e investigación de mercado, currículum, traspaso entre sesiones, auditoría de presentaciones y auditoría de git.",
+  "version": "0.2.0",
+  "description": "Skills propias: mercadotecnia e investigación de mercado, currículum, traspaso entre sesiones, auditoría de presentaciones, auditoría de git y revisión antes de subir (gate de push opcional).",
   "author": {
     "name": "Francisco Sebastian Pedroza"
   },
