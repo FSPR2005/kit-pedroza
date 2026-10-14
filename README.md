@@ -10,6 +10,25 @@ Skills propias. Cada una tiene una sola fuente: este repo.
 | `auditoria-presentaciones` | Auditoría de presentaciones antes de entregarlas |
 | `auditoria-git` | Auditoría del estado de un repositorio git |
 | `revisar-push` | Revisión de un cambio antes de subirlo, con el resultado en el PR |
+| `elegir-modelo` | Qué modelo (Haiku 5.5, Sonnet 5.5, Opus 5.5, Fable 5.1) y qué esfuerzo usar en cada tarea, según el plan de la cuenta (Pro, Max 5x, Max 20x, Team, Enterprise o API) |
+
+## Agentes
+
+Ocho agentes con modelo y esfuerzo fijos, para repartir trabajo sin gastar el modelo de la sesión
+en lo que un modelo menor hace igual. La skill `elegir-modelo` dice cuándo usar cada uno.
+
+| Agente | Modelo · esfuerzo | Para qué |
+|---|---|---|
+| `lector-haiku` | Haiku 5.5 · low | Localizar y leer sin juzgar (solo lectura) |
+| `extractor-haiku` | Haiku 5.5 · medium | Extraer datos de muchos archivos a un formato fijo (solo lectura) |
+| `ejecutor-sonnet` | Sonnet 5.5 · medium | Tareas acotadas con instrucciones cerradas |
+| `investigador-sonnet` | Sonnet 5.5 · high | Investigar en la web un ángulo concreto, con fuentes (sin escritura) |
+| `constructor-opus` | Opus 5.5 · high | Código nuevo con pruebas a partir de una especificación cerrada |
+| `revisor-opus` | Opus 5.5 · high | Revisión con un lente asignado (no edita) |
+| `analista-opus-max` | Opus 5.5 · max | Un problema difícil donde un error sería caro |
+| `experto-fable` | Fable 5.1 · high | Solo cuando Opus 5.5 en xhigh o max ya se quedó corto |
+
+Un agente nuevo se carga al abrir la sesión: después de actualizar el plugin, reinicia Claude Code.
 
 `hooks/play-done-sound.ps1` es opcional y no se activa solo. Es un aviso sonoro al
 terminar cada turno, solo para Windows.
