@@ -4,6 +4,18 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Versiones:
 Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalado tome los cambios:
 `/plugin marketplace update` y reiniciar Claude Code.
 
+## [0.4.0] · 2026-10-20
+
+### Agregado
+- Skill `kit-rp`: relaciones con prospectos y clientes (RP). Escoge la cuenta con el catálogo del ámbito activo,
+  revisa cada afirmación contra ese catálogo, prepara el primer mensaje (uno por uno y con «va»), lleva el CRM en
+  cuatro hojas, deja lista la llamada y, cuando no hay solución, descubre qué necesita el cliente. Referencias en
+  `skills/kit-rp/references/`.
+- Skill `kit-puntos-ciegos`: revisa un plan o una decisión para encontrar lo que el usuario no ve (supuestos,
+  sesgos anclados a sus palabras, pre-mortem y qué lo haría un error) y sostiene su juicio ante la insistencia.
+  Referencia en `skills/kit-puntos-ciegos/references/sesgos.md`.
+- Créditos de las dos skills en `CREDITOS.md`.
+
 ## [0.3.0] · 2026-10-13
 
 ### Agregado
@@ -39,6 +51,7 @@ Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalad
   `auditoria-presentaciones`, `auditoria-git`) y el hook opcional de aviso sonoro.
 - Plantilla de issue para reportar bugs de skills.
 
+[0.4.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.1.2...v0.2.0
 [0.1.2]: https://github.com/FSPR2005/kit-pedroza/compare/v0.1.1...v0.1.2

@@ -11,6 +11,8 @@ Skills propias. Cada una tiene una sola fuente: este repo.
 | `auditoria-git` | Auditoría del estado de un repositorio git |
 | `revisar-push` | Revisión de un cambio antes de subirlo, con el resultado en el PR |
 | `elegir-modelo` | Qué modelo (Haiku 5.5, Sonnet 5.5, Opus 5.5, Fable 5.1) y qué esfuerzo usar en cada tarea, según el plan de la cuenta (Pro, Max 5x, Max 20x, Team, Enterprise o API) |
+| `kit-rp` | Relaciones con prospectos: a quién ofrecerle qué, primer mensaje, CRM y llamada, sin mezclar ámbitos |
+| `kit-puntos-ciegos` | Encontrar lo que no estás viendo en un plan o una decisión, sin ceder a la insistencia |
 
 ## Agentes
 
@@ -71,5 +73,5 @@ y cada máquina se actualiza desde el marketplace.
 
 ## Créditos
 
-El gate de push está adaptado de `claude-kit-chema` (MIT). Detalle y aviso de licencia en
-`CREDITOS.md`.
+El gate de push está adaptado de `claude-kit-chema` (MIT). `kit-rp` y `kit-puntos-ciegos` toman ideas, no texto,
+de otros repos públicos. Detalle y avisos de licencia en `CREDITOS.md`.

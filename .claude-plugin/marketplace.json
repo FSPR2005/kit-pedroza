@@ -8,7 +8,7 @@
     {
       "name": "kit-pedroza",
       "source": "./",
-      "description": "Siete skills (kit-mercadotecnia, kit-cv, handoff, auditoria-presentaciones, auditoria-git, revisar-push, elegir-modelo), 8 agentes con modelo y esfuerzo fijos, un gate de push opcional y un hook opcional de aviso sonoro.",
+      "description": "Nueve skills (kit-mercadotecnia, kit-cv, handoff, auditoria-presentaciones, auditoria-git, revisar-push, elegir-modelo, kit-rp, kit-puntos-ciegos), 8 agentes con modelo y esfuerzo fijos, un gate de push opcional y un hook opcional de aviso sonoro.",
       "license": "MIT"
     }
   ]

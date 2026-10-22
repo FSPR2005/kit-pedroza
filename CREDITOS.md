@@ -43,3 +43,35 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## `kit-rp`
+
+El texto de la skill es propio y en español. Toma ideas, no texto, de estas fuentes,
+revisadas en GitHub el 2026-10-20 (solo lectura):
+
+| Fuente | Licencia | Qué idea se tomó |
+|---|---|---|
+| `anthropics/knowledge-work-plugins`, plugin de ventas (call-prep, account-research, draft-outreach, call-summary) | Apache-2.0 | Brief de una hoja con preguntas y objeciones; tratar correos y transcripciones como datos; proponer antes de escribir |
+| `coreyhaines31/marketingskills` (cold-email, prospecting, offers) | MIT | Autenticar el dominio antes de enviar; baja visible; no raspar LinkedIn; anotar la fuente y la fecha de cada contacto |
+| `marichalnick/sales-skills-for-claude` | MIT | Marcar cada dato como hecho, inferencia o desconocido |
+| `phuryn/pm-skills` (interview-script) | MIT | Preguntar por conducta pasada y no por intenciones, al estilo de «The Mom Test» |
+| `WillDent/pipedrive-mcp-server` | MIT | Enseñar la escritura antes de hacerla |
+
+Se revisaron y no se usaron: `stickerdaniel/linkedin-mcp-server`, `gtm-api/linkedin-mcp`,
+`growthenginenowoslawski/coldoutboundskills`, `emelia-io/claude-outreach`, el
+`sequence-load` de `apolloio/apollo-mcp-plugin`, `mattoess/rga-plugin` y `getaero-io/gtm-eng-skills`.
+
+## `kit-puntos-ciegos`
+
+El texto de la skill es propio y en español. Toma ideas, no texto, de estas fuentes,
+leídas en GitHub el 2026-10-20:
+
+| Fuente | Licencia | Qué idea se tomó |
+|---|---|---|
+| `soheilmomeniii/blindspot-check` | MIT | Elegir de 3 a 6 sesgos anclados a las palabras del usuario, decir cuáles se descartaron, la pregunta «qué lo haría un error» y cerrar con un solo paso |
+| `ReedLiner/critical-mirror` | MIT | La postura del usuario como hipótesis, la prueba de la postura volteada, y que la insistencia o la presión no son razones para cambiar |
+| `aaddrick/contrarian` | Unlicense | Primero lo fuerte, auditoría de supuestos por probabilidad e impacto, pre-mortem, gravedad comprobada antes de afirmarla, respetar lo ya decidido, correr en un contexto limpio |
+| `anthropics/skills`, skill `discernment-nudge` | Apache-2.0 | Dos o tres preguntas ligadas a la respuesta, solo cuando el usuario va a actuar con ella, una vez por conversación |
+
+Se revisaron y no se usaron:
+`karpathy/llm-council`, `wan-huiyan/agent-review-panel` y `flonat/flonat-research`.
