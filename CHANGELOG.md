@@ -4,6 +4,14 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Versiones:
 Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalado tome los cambios:
 `/plugin marketplace update` y reiniciar Claude Code.
 
+## [0.5.0] · 2026-10-23
+
+### Agregado
+- Skill `kit-persuasion`: comunicar y persuadir sin manipular, y defenderse de la manipulación. Cada técnica lleva
+  su grado de evidencia y su límite ético, bajo la prueba «si el otro supiera lo que hiciste, ¿se sentiría
+  engañado?». Referencias en `skills/kit-persuasion/references/` y fuentes en `skills/kit-persuasion/FUENTES.md`.
+- Créditos de la skill en `CREDITOS.md`.
+
 ## [0.4.0] · 2026-10-20
 
 ### Agregado
@@ -51,6 +59,7 @@ Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalad
   `auditoria-presentaciones`, `auditoria-git`) y el hook opcional de aviso sonoro.
 - Plantilla de issue para reportar bugs de skills.
 
+[0.5.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.1.2...v0.2.0

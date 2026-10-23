@@ -75,3 +75,9 @@ leídas en GitHub el 2026-10-20:
 
 Se revisaron y no se usaron:
 `karpathy/llm-council`, `wan-huiyan/agent-review-panel` y `flonat/flonat-research`.
+
+## `kit-persuasion`
+
+El texto de la skill es propio y en español. Se basa en lo que enseña públicamente el mentalista Javier Botía
+(su canal de YouTube y el episodio #271 del pódcast WORLDCA$T). La evidencia de cada técnica viene de la
+literatura académica citada en `skills/kit-persuasion/FUENTES.md`, consultada el 2026-10-22.
