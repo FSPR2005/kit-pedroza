@@ -15,7 +15,11 @@ El CRM es una hoja de cálculo o una herramienta de CRM de la cuenta del ámbito
 | fuente del encaje | Liga pública y fecha de consulta |
 | disparador | Por qué ahora, con su fuente y fecha |
 | oferta | Clave de la oferta del catálogo; «sin solución» si no hay |
+| camino de venta | Marca propia o línea blanca o maquila; una campaña por camino |
+| dato | El dato verificable de su página que va en la primera línea; «sin dato» si no hay |
+| URL del dato | Liga exacta donde aparece, con fecha de consulta |
 | dueño interno | Quién lleva la cuenta (una persona) |
+| quién atiende | Quién contesta las respuestas; va en copia visible en cada correo |
 | etapa | Ver «Etapas» |
 | último toque | AAAA-MM-DD |
 | siguiente paso | Qué sigue, en una línea |
@@ -33,13 +37,17 @@ El CRM es una hoja de cálculo o una herramienta de CRM de la cuenta del ámbito
 | canal | Correo, teléfono de oficina, LinkedIn a mano |
 | dato de contacto | Solo aquí |
 | aviso de privacidad | Fecha en que se le dio la liga |
-| baja | Sí / no, con fecha. Con «sí» no se le vuelve a escribir |
+| toque 1 | AAAA-MM-DD del primer correo |
+| toque 2 | AAAA-MM-DD del segundo correo (día 3 o 4 hábil), o vacío si ya contestó |
+| toque 3 | AAAA-MM-DD del tercer correo (día 9 a 11 hábil), o vacío si ya contestó |
+| baja | Sí / no, con fecha. Con «sí» no se le vuelve a escribir. La palabra «baja» sola, como respuesta, cuenta como «sí» |
 | derechos sobre sus datos | Si pidió acceso, rectificación, cancelación u oposición: fecha de la solicitud y de la respuesta |
 
 ## Hoja «Toques» (una fila por cada mensaje, llamada o reunión)
 
-fecha · cuenta · contacto · canal · qué se envió o habló (asunto, sin pegar el
-cuerpo) · respuesta · quién dio el «va».
+fecha · hora programada (en la hora del destinatario) · cuenta · contacto · canal · número de
+toque (1, 2 o 3) · qué se envió o habló (asunto, sin pegar el cuerpo) · copias · respuesta ·
+quién dio el «va».
 
 ## Hoja «Necesidades» (lo que piden y no tenemos)
 
@@ -63,4 +71,4 @@ Cada etapa se gana con un hecho, no con una sensación.
 | 5 · Propuesta | Se envió una propuesta formal |
 | 6 · Ganada / Perdida / Sin respuesta | Con fecha y una línea de por qué |
 
-«Sin respuesta» se pone tras el primer mensaje y dos seguimientos sin contestar.
+«Sin respuesta» se pone tras el toque 3 sin contestar. No hay toque 4.

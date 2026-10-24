@@ -4,6 +4,31 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Versiones:
 Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalado tome los cambios:
 `/plugin marketplace update` y reiniciar Claude Code.
 
+## [0.6.0] · 2026-10-23
+
+### Agregado
+- `kit-rp`, referencia `canales.md`: la regla de cada canal con su fuente (correo con cadencia, horario, límites de
+  envío y quejas de spam; LinkedIn, Apollo y otros buscadores, WhatsApp, formularios, llamadas y redes) y las fuentes
+  masivas de prospectos en México.
+- `kit-rp`, referencia `personalizacion.md`: un dato verificable de la página del prospecto en la primera línea, los
+  tipos de gancho, cómo repartir una lista grande entre subagentes con WebFetch y sin WebSearch, y qué hacer sin dato.
+- `kit-rp`, referencia `cliente-simulado.md`: cuándo correrlo y un prompt para que un subagente lea el correo como el
+  comprador, con centro de compras y objeciones.
+- `kit-rp`, en `SKILL.md`: apagar lo automático heredado antes de empezar, «Al retomar una campaña» (interesados
+  primero, bajas, rebotes y siguiente toque), el paso «Cadencia y horario», la sección «Canales» y gatillos nuevos
+  en la descripción.
+
+### Cambiado
+- `kit-rp`, `SKILL.md`: el primer mensaje lleva un dato verificable con su URL en el CRM, aviso de privacidad
+  simplificado al pie, copia visible a quien atiende las respuestas y cliente simulado antes de una tanda; un camino de
+  venta es una campaña (marca propia frente a línea blanca o maquila); lo que el vendedor no confirmó no sale. Los
+  pasos del flujo pasan de 8 a 9.
+- `kit-rp`, `configuracion.md`: campos «Quién atiende las respuestas», «Copias fijas», «Caminos de venta» y «Horario
+  de envío», y requisitos públicos de cadenas grandes para la línea blanca.
+- `kit-rp`, `plantillas.md`: segundo y tercer correo en el mismo hilo, confirmación de baja de una línea, nota de
+  LinkedIn de 200 caracteres como máximo y mensaje de LinkedIn de 50 a 75 palabras.
+- `kit-rp`, `crm.md`: dato y su URL, camino de venta, quién atiende, toques 1, 2 y 3, y hora programada.
+
 ## [0.5.0] · 2026-10-23
 
 ### Agregado
@@ -59,6 +84,7 @@ Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalad
   `auditoria-presentaciones`, `auditoria-git`) y el hook opcional de aviso sonoro.
 - Plantilla de issue para reportar bugs de skills.
 
+[0.6.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/FSPR2005/kit-pedroza/compare/v0.2.0...v0.3.0
