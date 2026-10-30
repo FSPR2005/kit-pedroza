@@ -4,6 +4,18 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Versiones:
 Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalado tome los cambios:
 `/plugin marketplace update` y reiniciar Claude Code.
 
+## [0.7.0] · 2026-10-29
+
+### Agregado
+- `kit-rp`, referencia `diagnostico.md`: qué le pasa a la cuenta antes de ofrecerle algo (qué hacen, hallazgo con
+  URL marcado como hecho o inferencia, por qué ahora y propuesta con su material), de dónde salen los hallazgos y
+  el reparto para gastar lo mínimo: script, modelo local, validación mecánica y Claude que audita.
+- `kit-rp`, referencia `mejora-continua.md`: cómo mejora la skill con el uso (bitácora `RP-MEJORAS.md` del ámbito,
+  fuera del repo; medir por plantilla y por hallazgo; consolidar en genérico con «va»; evaluaciones con
+  `claude plugin eval`) y la cola de mejoras pendientes.
+- `kit-rp`, en `SKILL.md`: el diagnóstico en el paso 1, un punto en la lista previa, un error típico y la sección
+  «Cómo mejora esta skill».
+
 ## [0.6.0] · 2026-10-23
 
 ### Agregado
