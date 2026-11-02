@@ -14,6 +14,26 @@ recibe un sí que no vale nada; «¿qué hicieron la última vez que pasó?» di
 6. **Presupuesto:** ¿Tienen dinero asignado para esto este año o habría que pedirlo?
 7. **Tiempo:** ¿Para cuándo tiene que estar resuelto y qué pasa si no?
 
+## Pregunta antes de describir («véndeme esta pluma»)
+
+Agregado el 2026-11-02, a pedido de Sebastián, de un reel de @blacksaless (DfDApO5MWLK).
+
+- **El error típico:** empezar describiendo el producto («escribe suave, tinta azul, muy elegante»). El cliente
+  piensa «¿y a mí qué?». Nadie compra la pluma; compra lo que va a hacer con ella, y eso solo se sabe preguntando.
+- **Primero aparece la necesidad, después el producto.** En la escena de la película (*El lobo de Wall Street*),
+  quien lo hace bien no describe la pluma: le pide al otro que firme algo y no tiene con qué. Aquí: usar las
+  preguntas base de arriba hasta que el cliente diga con sus palabras qué le falta, y solo entonces mencionar lo que
+  ofrecemos, amarrado a lo que dijo.
+- **Habla menos de la mitad del tiempo.** El reel cita que quienes más venden hablan el 43 % del tiempo. La cifra es
+  real pero vieja: sale de un estudio anterior de Gong (43 % hablando, 57 % escuchando, en llamadas B2B). Su
+  actualización de 2025 (326 mil llamadas) ya no fija un número; dice que el promedio es 60/40 y que lo que distingue
+  a los mejores es hablar en la misma proporción ganen o pierdan. Fuente: gong.io/resources/labs/talk-to-listen-conversion-ratio
+  (consultada 2026-11-02). Úsese como guía («escucha más de lo que hablas»), no como meta exacta.
+- **En texto (correo, WhatsApp, comentarios) aplica igual:** el primer mensaje lleva una pregunta concreta sobre la
+  situación del cliente, no la ficha del producto. La ficha va cuando la pidan o cuando ya dijeron qué necesitan.
+- **Lo que no se copia del reel:** el «comenta CLOSER y te mando gratis…». Es el gancho de su cuenta, no una técnica
+  de atención.
+
 ## Señales de que la necesidad es real
 
 - Ya gastaron dinero o tiempo intentando resolverlo.
