@@ -34,6 +34,21 @@ Agregado el 2026-11-02, a pedido de Sebastián, de un reel de @blacksaless (DfDA
 - **Lo que no se copia del reel:** el «comenta CLOSER y te mando gratis…». Es el gancho de su cuenta, no una técnica
   de atención.
 
+## Cuando preguntan «¿cuánto cuesta?» antes de todo
+
+Agregado el 2026-11-02, a pedido de Sebastián, de un reel de @digitalizateexperto (DfN0LkYIh_J).
+
+- **Un precio sin contexto es solo un número fácil de comparar.** Si se contesta la cantidad de inmediato, el
+  cliente la pone junto a otras sin saber qué opción le conviene, qué incluye ni por qué elegirnos.
+- **Respuesta:** «Claro. Para recomendarte la opción que de verdad te conviene, ¿qué estás buscando conseguir?», más
+  2 o 3 preguntas concretas del caso (para qué, para cuántos, para cuándo).
+- **Después, en este orden:** la opción recomendada para su caso → qué incluye → la cantidad. El precio llega
+  acompañado de una recomendación.
+- **No es esconder el precio:** si después de las preguntas lo vuelve a pedir, se da. Y donde la regla del negocio
+  dice que se cotiza por escrito (Trajes Jos) o que no se da precio en ese canal, manda la regla del negocio.
+- Ejemplo del reel: salón de eventos. «¿Qué evento, para cuántas personas y qué fecha?» → «boda de 150 en
+  diciembre» → «el paquete para 150 incluye mobiliario, meseros, limpieza y 6 horas; la inversión es de X».
+
 ## Señales de que la necesidad es real
 
 - Ya gastaron dinero o tiempo intentando resolverlo.
