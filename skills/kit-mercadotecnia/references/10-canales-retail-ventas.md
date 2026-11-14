@@ -1,6 +1,26 @@
 # Canales, retail y fuerza de ventas
 > Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson.
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - Canal de marketing: definición y pregunta central
+  - Niveles y longitud del canal
+  - Los cinco flujos del canal
+  - Organización del canal
+  - Las 4 decisiones de diseño de canal
+  - Intensidad de distribución
+  - Gestión del canal
+  - Conflicto de canal
+  - Alineación estratégica del canal
+  - Retail (comercio minorista)
+  - Marcas privadas (marcas blancas)
+  - Mayoreo (wholesaling)
+  - Fuerza de ventas
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 
 Úsalo cuando la pregunta de negocio sea cómo llevar tu producto o servicio hasta el cliente y con quién apoyarte para lograrlo:
@@ -163,6 +183,8 @@ Sus decisiones de marketing son las mismas que las de cualquier empresa: segment
 - **Supervisar:** ayudar a vender inteligentemente. Herramientas: informes de ventas (semanal/mensual/anual), plan de trabajo (a qué clientes y prospectos llamar) y análisis de tiempo y servicio (cuánto tiempo se va en vender, viajar, descansar y tareas administrativas).
 - **Evaluar:** información periódica del desempeño individual (informes de ventas, alcance de metas, reportes de gastos) y del desempeño de la fuerza en conjunto.
 - **Motivar:** más allá de dirigir, elevar moral y desempeño con clima organizacional, incentivos positivos y retroalimentación positiva.
+
+**Proceso de venta personal [K&A cap. 16; el curso no lo desarrolla en las láminas].** Siete pasos: (1) prospectar y calificar clientes, (2) preparar el acercamiento (investigar la cuenta y fijar el objetivo de la visita), (3) acercamiento, (4) presentación y demostración centradas en las necesidades del cliente, (5) manejo de objeciones, (6) cierre y (7) seguimiento. En ventas a empresas, combínalo con el centro de compras del módulo 12.
 
 ## Sugerencias de investigación de mercado
 

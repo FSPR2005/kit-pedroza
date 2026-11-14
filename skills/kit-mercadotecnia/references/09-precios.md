@@ -1,6 +1,22 @@
 # Estrategias y programas de precios
 > Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Los diagramas *value-based pricing*, *cost-based pricing* y el árbol de respuesta a un cambio de precio de la competencia son figuras características de esa obra.
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. El rango de precio: piso, techo y los tres insumos
+  - 2. Estructura de costos (el piso)
+  - 3. Las tres familias de estrategias
+  - 4. Precio según el ciclo de vida del producto
+  - 5. Precios para productos nuevos: descremado vs. penetración
+  - 6. Precios de mezcla: cautivos y paquetes
+  - 7. Cambios de precio: factores, reacciones y respuesta a la competencia
+  - 8. Otros factores internos y externos que afectan el precio
+  - 9. Punto de equilibrio
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 
 Úsalo cuando la pregunta de negocio sea, en el fondo, "¿cuánto cobro?":
@@ -54,6 +70,8 @@ La misma estructura de costos se puede clasificar de dos formas — fijos/variab
 3. Costo total = costos directos + costos indirectos.
 4. Costo unitario = costo total ÷ número de unidades.
 
+**Costo total unitario y volumen [Curso + Kit].** Costo total unitario = costo variable unitario + costos fijos ÷ unidades. Con más volumen el fijo se reparte y el costo unitario baja; por eso, sin volumen esperado, no hay un solo precio "correcto" por costo: hay una tabla precio → volumen necesario. Para un margen objetivo m sobre precio: volumen necesario = costos fijos ÷ (precio × (1 − m) − costo variable unitario), redondeado hacia arriba. Margen sobre precio y markup sobre costo son cosas distintas: un markup de 35% equivale a un margen de 25.9% (0.35 ÷ 1.35).
+
 *Cuándo usarlo:* antes de cualquier decisión de precio; sin costo unitario limpio no hay piso ni margen confiable.
 
 ### 3. Las tres familias de estrategias
@@ -93,7 +111,7 @@ Fija el precio a partir de los costos de producir, distribuir y vender, más una
 Precio = costo unitario / (1 − rendimiento deseado)
 ```
 
-*Ejemplo genérico:* costo unitario $228.80, margen objetivo 38% → Precio = 228.80 / (1 − 0.38) = 228.80 / 0.62 = **$369.03**. (Ojo: el divisor es 1 menos el margen, no "costo × 1.38"; con margen sobre precio, $228.80 × 1.38 daría un resultado distinto e incorrecto.)
+*Ejemplo (ejercicio del curso, servicio de purificación de agua por suscripción):* costo unitario $228.80, margen objetivo 38% → Precio = 228.80 / (1 − 0.38) = 228.80 / 0.62 = **$369.03**. (Ojo: el divisor es 1 menos el margen, no "costo × 1.38"; con margen sobre precio, $228.80 × 1.38 daría un resultado distinto e incorrecto.)
 
 **Diagrama cost-based pricing (4 pasos):** diseñar un buen producto → determinar sus costos → fijar el precio con base en el costo → convencer a los compradores del valor del producto.
 
@@ -166,6 +184,25 @@ Cuando el producto no se vende solo, sino como parte de un conjunto, la empresa 
    - **Lanzar una marca de combate (fighter brand)** de precio bajo.
 
 Principio de cierre: cuando un competidor baja precios, la primera reacción suele ser bajar los propios — y suele ser la respuesta equivocada. Muchas veces conviene reforzar el lado del **valor** en la ecuación precio-valor antes que entrar en guerra de precios.
+
+### 8. Otros factores internos y externos que afectan el precio
+**Origen.** Objetivo declarado de la primera sesión de precios del curso ("identificar otros factores externos e internos importantes que afectan las decisiones de fijación de precios"); el desarrollo es de [K&A cap. 10]. No se cotejó página por página contra el libro.
+
+- **Internos:** la estrategia, los objetivos y la mezcla de marketing (el precio debe ser consistente con el posicionamiento; a veces se fija primero el precio objetivo y se diseña el producto para ese precio), y quién decide el precio dentro de la organización.
+- **Externos:** el mercado y la demanda (tipo de mercado, percepción de precio y valor del cliente, **elasticidad precio de la demanda**: si la demanda es elástica, una baja de precio puede subir el ingreso total; si es inelástica, no), la economía (inflación, ingreso, confianza), los intermediarios (necesitan margen), el gobierno y la regulación, y las preocupaciones sociales.
+
+Lista de verificación del curso [Curso]: antes de cerrar un precio, revísalo contra **costo, mercado, calidad, demanda, competencia, posicionamiento, realismo y rentabilidad**.
+
+Regla [Kit]: si no hay dato de elasticidad, no se supone. Se propone cómo estimarla (historial de ventas con cambios de precio, experimento de precio) y se marca el efecto como supuesto.
+
+### 9. Punto de equilibrio
+**Origen.** [K&A, apéndice "Marketing by the Numbers"]; el curso no lo desarrolla en las láminas.
+
+```
+Volumen de equilibrio (unidades) = Costos fijos ÷ (Precio − Costo variable unitario)
+```
+
+Úsalo para revisar si el volumen que exige un precio es realista frente al tamaño del mercado meta (módulo 06). Si el volumen de equilibrio supera la demanda estimada, el precio o la estructura de costos no funcionan.
 
 ## Sugerencias de investigación de mercado
 

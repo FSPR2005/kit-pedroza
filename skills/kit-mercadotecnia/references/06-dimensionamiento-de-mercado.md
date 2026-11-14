@@ -1,6 +1,24 @@
 # Dimensionamiento de mercado y cálculo de demanda
 > Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Fuentes de datos habituales para poblar los cálculos: censos e institutos de estadística nacionales (en México, INEGI), estudios sindicados de consumo (Nielsen, Kantar, GfK, Euromonitor), asociaciones de nivel socioeconómico (en México, AMAI para NSE) y estudios de mercado propios (prueba de producto, test de concepto, mercado simulado).
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. Los cuatro niveles de mercado
+  - 2. Demanda de mercado, demanda de la empresa y pronóstico de ventas
+  - 3. Función de demanda de mercado (demanda vs. gasto de marketing)
+  - 4. Método de proporciones en cadena (chain ratios)
+  - 5. Valor de mercado de la empresa
+  - 6. Participación de mercado (valor y unidades)
+  - 7. Participación del cliente (share of customer)
+- Plantilla genérica de cálculo paso a paso
+  - Paso 0 — Tabla de insumos
+  - Pasos 1-5 — Del potencial a la demanda anual
+  - Ejemplo ilustrativo (inventado — no es un caso real)
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 
 Este módulo responde las preguntas de tamaño y demanda que anteceden a cualquier plan de negocio o de marketing:
@@ -12,7 +30,7 @@ Este módulo responde las preguntas de tamaño y demanda que anteceden a cualqui
 - ¿Vale la pena entrar a esta categoría o el mercado real es demasiado chico?
 - ¿Cuánto debería presupuestar de ventas para el periodo?
 
-Es el paso que convierte una oportunidad ("hay gente que sudaría por esto") en un número defendible ("el mercado meta son 975 mil personas y la demanda anual es de 3.5 millones de unidades / $87.75 M"). Sin este ejercicio, el pronóstico de ventas es un deseo, no una estimación.
+Es el paso que convierte una oportunidad ("hay gente que sudaría por esto") en números con base, unidad y supuestos a la vista (por ejemplo: "un candidato de 975 mil personas definido por filtros supuestos y un escenario de intención declarada de 3.5 millones de unidades / $87.75 M, que todavía no es demanda"). Sin este ejercicio, el pronóstico de ventas es un deseo; con él, es una estimación que dice qué falta para confirmarla.
 
 ## Marcos y conceptos
 
@@ -41,7 +59,7 @@ Regla mental: mercado = el pastel entero; empresa = tu rebanada; pronóstico = l
 
 ### 3. Función de demanda de mercado (demanda vs. gasto de marketing)
 
-La demanda de la categoría no es fija: crece con el gasto de marketing de toda la industria, pero con rendimientos decrecientes. En la curva demanda-vs-gasto (Kotler), tres puntos importan:
+La demanda de la categoría no es fija: crece con el gasto de marketing de toda la industria, pero con rendimientos decrecientes. En la curva demanda-vs-gasto, tres puntos importan. [Externo: la figura proviene de Kotler y Keller, *Marketing Management*; no se encontró en el índice de *Principles* 18.ª ni en el material del curso]:
 
 - **Q1 — Mercado mínimo:** ventas base que ocurrirían aun sin gasto de marketing de la industria.
 - **Q2 — Potencial de mercado:** límite superior de la demanda cuando el gasto de la industria es muy alto (la curva se aplana).
@@ -122,13 +140,27 @@ Cada renglón debe tener fuente. Los porcentajes que no tengas los levantas en u
 
 | Paso | Nivel / salida | Fórmula |
 |---|---|---|
-| 1 | **Mercado potencial** (personas) | Población × % género objetivo |
+| 1 | **Mercado potencial** | Universo delimitado × proporción con interés pertinente; documentar base y unidad |
 | 2 | **Mercado disponible** (personas) | Potencial × % NSE con ingreso/acceso × % edad relevante |
 | 3 | **Mercado meta** (personas) | Potencial × % NSE seleccionado × % edad seleccionada × % con la necesidad |
-| 4 | **Demanda anual en unidades** | Meta × % intención de compra × unidades por compra × frecuencia anual |
-| 5 | **Demanda anual en valor** | Demanda en unidades × precio promedio |
+| 4a | **Compradores en el periodo** (personas o unidades de decisión) | Base elegible × probabilidad de compra pertinente al periodo |
+| 4b | **Escenario anual en unidades** | Compradores en el periodo (4a) × unidades por comprador en ese periodo |
+| 5 | **Escenario anual en valor** | Escenario en unidades (4b) × precio promedio |
 
-Nota de anidamiento: en este método cada filtro se multiplica sobre la **base poblacional (potencial)**, no sobre el nivel inmediato anterior; por eso los porcentajes de NSE y edad del disponible y del meta se aplican al potencial. Verifica que se cumpla Meta < Disponible < Potencial (los círculos deben anidar). El % de "necesidad concreta" del meta es un filtro extra que el disponible no lleva.
+Nota de salidas [Kit]: 4a cuenta compradores; 4b cuenta unidades compradas. Si el objetivo es el número de compradores, la comparación se hace con 4a: multiplicar por unidades o por frecuencia da compras o volumen, no compradores.
+
+Nota de independencia [Kit]: multiplicar dos porcentajes que vienen de distribuciones distintas (por ejemplo, % de un nivel socioeconómico × % de un rango de edad) supone que son independientes: que el reparto por edad es igual en cada nivel socioeconómico. Casi nunca lo es del todo. Si la fuente da el cruce real (tabla NSE × edad), úsalo; si no, declara el supuesto y muestra cuánto cambia el resultado si se mueve.
+
+Nota sobre el ejercicio del curso [Curso]: la definición de mercado potencial habla de "consumidores con interés elevado", pero el cálculo del ejercicio lo aproxima con población × % del género. Es una aproximación de clase, no la definición: en un caso real, el potencial debería filtrar por interés o uso de la categoría si hay dato. En ese mismo ejercicio, los porcentajes por edad son de deportistas en cada rango de edad, no de toda la población; al reutilizar la plantilla, nombra con precisión qué mide cada porcentaje.
+
+Nota de denominadores [Kit]: antes de aplicar un porcentaje, confirma de qué total sale (población, hogares, empresas o un segmento ya calculado) y en qué unidad queda el resultado; no compares resultados en unidades distintas sin convertirlos.
+
+Cada porcentaje se aplica a su denominador real: una tasa condicional usa la
+base ya filtrada; porcentajes marginales no se multiplican como cruces observados.
+Declara cualquier supuesto de independencia. Comprueba inclusión de conjuntos,
+además de cantidades. Si se usa intención sin calibración, nombra la salida
+escenario de intención declarada y no pronóstico. Para empresa, documenta
+alcance comercial, compra observada o calibrada y capacidad sin duplicar filtros.
 
 ### Ejemplo ilustrativo (inventado — no es un caso real)
 
@@ -150,15 +182,20 @@ Marca hipotética de barra de proteína premium, mercado nacional imaginario:
 | Frecuencia anual | 12 |
 | Precio promedio | $25 |
 
-- Paso 1 — Potencial: 130,000,000 × 50% = **65,000,000**
-- Paso 2 — Disponible: 65,000,000 × 40% × 25% = **6,500,000**
-- Paso 3 — Meta: 65,000,000 × 20% × 15% × 50% = **975,000**
-- Paso 4 — Demanda anual en unidades: 975,000 × 30% × 1 × 12 = **3,510,000 unidades**
-- Paso 5 — Demanda anual en valor: 3,510,000 × $25 = **$87,750,000**
+- Paso 1 — Universo demográfico delimitado, sin interés verificado: 130,000,000 × 50% = **65,000,000**
+- Paso 2 — Subconjunto demográfico con ingreso/acceso supuesto: 65,000,000 × 40% × 25% = **6,500,000**
+- Paso 3 — Candidato por filtros, sin selección validada: 65,000,000 × 20% × 15% × 50% = **975,000**
+- Paso 4a — Escenario de compradores por intención declarada: 975,000 × 30% = **292,500 personas**
+- Paso 4b — Escenario anual de intención declarada en unidades: 292,500 × 1 × 12 = **3,510,000 unidades**
+- Paso 5 — Escenario anual de intención declarada en valor: 3,510,000 × $25 = **$87,750,000**
 
-Lectura de negocio: el mercado potencial son 65 M de personas, pero la oportunidad real que persigues es de 975 mil clientes meta, equivalentes a 3.51 M de unidades y $87.75 M al año en el techo de intención declarada. Para pasar de este *potencial* al *pronóstico de ventas* aún debes ajustar por la distribución que realmente lograrás y por la brecha típica entre intención declarada y compra efectiva.
+Lectura de negocio: 65 M es un universo demográfico, no interés comprobado.
+Los 975 mil son un candidato definido por filtros supuestos, no clientes
+confirmados. Las 3.51 M de unidades y $87.75 M son un escenario de intención
+declarada. Para pronosticar ventas faltan cruces reales, interés, elegibilidad,
+cobertura comercial, capacidad y calibración de intención contra compra.
 
-(Este ejemplo replica la mecánica del ejercicio publicado de Rexona Active Sport —Unilever, dimensionamiento de demanda de un antitranspirante— usado como caso de enseñanza; aquí solo se reutiliza el método, no sus cifras.)
+(Este ejemplo replica la mecánica del ejercicio de clase del curso sobre Rexona Active Sport —Unilever, dimensionamiento de demanda de un antitranspirante— usado como caso de enseñanza; aquí solo se reutiliza el método, no sus cifras.)
 
 ## Sugerencias de investigación de mercado
 
@@ -175,11 +212,11 @@ Lectura de negocio: el mercado potencial son 65 M de personas, pero la oportunid
 
 ## Errores típicos
 
-- **Confundir potencial con pronóstico.** El potencial (65 M interesados) no es lo que vas a vender; es el techo teórico de toda la industria. Presupuestar ventas contra el potencial es cómo se firman metas imposibles.
+- **Confundir potencial con pronóstico.** El universo del ejemplo (65 M, filtrado solo por demografía, sin interés verificado) no es lo que vas a vender; ni siquiera el potencial con interés lo es: es un techo teórico. Presupuestar ventas contra el potencial es cómo se firman metas imposibles.
 - **Tomar la intención de compra al pie de la letra.** Un 37.5% de "definitivamente compraría" en encuesta casi nunca se convierte en 37.5% de compra real. Ajusta por la brecha declarado-vs-observado, o tu pronóstico nace inflado.
-- **Olvidar el filtro de acceso/distribución.** Puedes tener 975 mil clientes meta y venderle a 100 mil porque tu producto solo llega al 10% de los puntos de venta. El pronóstico realista pasa por la cobertura que de verdad lograrás, no por la demanda teórica.
+- **Olvidar el filtro de acceso/distribución.** Puedes tener un candidato de 975 mil personas y venderle a 100 mil porque tu producto solo llega al 10% de los puntos de venta. El pronóstico realista pasa por la cobertura que de verdad lograrás, no por la demanda teórica.
 - **Cadena de proporciones con eslabones sin fuente.** Cada porcentaje inventado "a ojo" multiplica el error. Un producto de cinco factores con tres estimaciones flojas ya no es una estimación, es una corazonada disfrazada de número.
 - **Mezclar participación en valor y en unidades sin decir cuál.** Son distintas y la diferencia cuenta una historia (premium vende caro y poco; barato, al revés). Cita siempre cuál usas.
-- **Anidamiento incoherente.** Si tu mercado meta te sale mayor que el disponible, o el disponible mayor que el potencial, un filtro está mal aplicado. Los círculos siempre anidan: Penetrado < Meta < Disponible < Potencial.
-- **Aplicar los filtros sobre la base equivocada.** Decide de entrada si multiplicas cada porcentaje sobre la base poblacional (potencial) o sobre el nivel anterior; mézclalos y el resultado no significa nada. Documenta la convención junto al cálculo.
-- **Un solo escenario.** Una demanda de "$87.75 M" sin banda de sensibilidad esconde el riesgo. Corre al menos pesimista / base / optimista variando intención, frecuencia y cobertura.
+- **Anidamiento incoherente.** Con el mismo universo y periodo, verifica inclusión: penetrado dentro del meta ⊆ meta ⊆ disponible ⊆ potencial; los tamaños cumplen ≤, pero su orden no prueba inclusión. Comprueba elegibilidad y distingue compradores actuales totales de compradores dentro del mercado seleccionado.
+- **Aplicar los filtros sobre la base equivocada.** Cada porcentaje va sobre el total del que sale: un porcentaje de toda la población va sobre la población; uno medido dentro de un segmento va sobre ese segmento. No es una convención a elegir: si no sabes de qué total sale un porcentaje, márcalo como faltante. Documenta la base de cada fila junto al cálculo.
+- **Un solo escenario.** Un escenario de "$87.75 M" sin banda de sensibilidad esconde el riesgo. Corre al menos pesimista / base / optimista variando intención, frecuencia y cobertura.

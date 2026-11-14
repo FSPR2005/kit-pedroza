@@ -5,6 +5,25 @@
 > - Levitt, T. (1960). Marketing Myopia. *Harvard Business Review*, 38(4), 45-56.
 > - Maslow, A. H. (1943). A theory of human motivation. *Psychological Review*, 50(4), 370-396.
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. El proceso de marketing en 5 pasos (Kotler)
+  - 2. Necesidades, deseos y demandas
+  - 3. Ofertas de mercado y miopía de marketing
+  - 4. Mercado
+  - 5. Gestión de marketing y sus dos preguntas
+  - 6. Propuesta de valor
+  - 7. Las cinco orientaciones (conceptos de gestión de marketing)
+  - 8. Concepto de ventas vs. concepto de marketing
+  - 9. Mezcla de marketing (4 P) y programa integrado
+  - 10. CRM y marketing de participación del cliente
+  - 11. Clasificación de clientes por rentabilidad × lealtad
+  - 12. El panorama cambiante del marketing (5 fuerzas transformadoras)
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 
 Úsalo al arrancar cualquier trabajo de marketing, antes de meterte en tácticas. Responde preguntas de negocio como:
@@ -110,6 +129,12 @@ El selling concept es una visión **de adentro hacia afuera (inside-out)**: vend
 
 ### 9. Mezcla de marketing (4 P) y programa integrado
 **Qué es.** El conjunto de herramientas tácticas —las **cuatro P**— con las que la empresa ejecuta su estrategia de valor: **Producto, Precio, Promoción, Plaza** (distribución). Un **programa de marketing integrado** es el plan integral que combina las 4 P de forma coherente para crear, entregar y comunicar el valor deseado. Cada P se desarrolla en su propio módulo.
+
+**Qué incluye cada P [Curso, figura de K&A]:**
+- **Producto:** variedad, calidad, diseño, características, nombre de marca, empaque, servicios.
+- **Precio:** precio de lista, descuentos, bonificaciones, periodo de pago, condiciones de crédito.
+- **Plaza:** canales, cobertura, ubicaciones, inventario, transporte, logística.
+- **Promoción:** publicidad, venta personal, promoción de ventas, relaciones públicas, marketing directo y digital.
 
 **Cuándo usarlo.** En el paso 3 del proceso, para bajar la estrategia a decisiones concretas. Regla: las 4 P deben contar la misma historia; un producto premium con precio de descuento y canal de bazar se contradice.
 

@@ -1,5 +1,18 @@
 # Información e investigación de mercados
-> Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Definición de investigación de mercados: American Marketing Association (AMA). [Agrega aquí las demás fuentes que uses en un encargo concreto —Euromonitor, McKinsey, Nielsen, Statista, INEGI, etc.— en formato APA.]
+> Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Definición de investigación de mercados: American Marketing Association (AMA). Las fuentes del encargo se registran en el entregable o en un expediente externo, nunca dentro del módulo.
+
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. Sistema de Información de Marketing (SIM)
+  - 2. Las 3 fuentes en detalle
+  - 3. Investigación de mercados: definición y para qué sirve
+  - 4. Insight del consumidor
+  - 5. Proceso de investigación de mercados (4 pasos)
+  - 6. Sesgos y problemas en la recolección de datos
+- Sugerencias de investigación de mercado
+- Errores típicos
 
 ## Cuándo usar este módulo
 
@@ -153,6 +166,8 @@ Traduce los objetivos en **necesidades de información específicas** y define c
 Regla práctica: **probabilístico** cuando necesitas **generalizar con confianza estadística** (estudios descriptivos serios, dimensionamiento); **no probabilístico** cuando exploras, tienes poco presupuesto o buscas perfiles específicos, aceptando que no podrás extrapolar con rigor.
 
 **(e) Método de contacto.** Cómo llegas a la muestra: **correo/email, teléfono** (línea o celular), **en línea** (web/móvil) y **entrevista personal cara a cara**. Compensaciones estándar del libro *(definición estándar del libro)*: el correo es barato pero lento y con baja tasa de respuesta; el teléfono es rápido pero cada vez más rechazado; en línea es el más barato y veloz pero con problemas de representatividad; cara a cara es el más rico y caro, y el más expuesto a sesgo del entrevistador.
+
+**(f) Instrumentos de investigación.** [Curso: aparece en la lista del paso 2; desarrollo de K&A cap. 4] Con qué se recoge el dato: **cuestionario** (el más común; preguntas cerradas para medir y comparar, abiertas para explorar; redacción simple, sin preguntas que induzcan la respuesta, y probado antes con unas cuantas personas) e **instrumentos mecánicos o digitales** (analítica web, escáneres de punto de venta, medidores de audiencia, seguimiento de uso). Elige el instrumento por la necesidad de información, no por costumbre.
 
 **Investigación en línea** (caso especial de contacto/enfoque):
 - **Ventajas:** bajo costo, alcance amplio, rápida, respuestas honestas, considerada (no invasiva), versátil.

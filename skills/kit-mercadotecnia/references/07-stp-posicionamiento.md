@@ -2,6 +2,24 @@
 > Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson.
 > Fuentes complementarias: Porter, M. E. (1980). *Competitive Strategy: Techniques for Analyzing Industries and Competitors*. Free Press (modelo de las cinco fuerzas usado en la evaluación de segmentos). Plantilla de mapas perceptuales de burbujas: perceptualmaps.com.
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. Modelo STP (Segmentation – Targeting – Positioning)
+  - 2. Bases de segmentación de mercados de consumo
+  - 3. Criterios de una segmentación efectiva
+  - 4. Evaluación y selección de segmentos
+  - 5. Estrategias de targeting (orientación al mercado)
+  - 6. Posicionamiento de marca: definición y enunciado
+  - 7. Marco de referencia competitivo
+  - 8. Puntos de paridad (POP) y puntos de diferencia (POD)
+  - 9. Mapas perceptuales
+  - 10. Matriz precio × beneficios (propuesta de valor)
+  - 11. Frase de posicionamiento y escalera de beneficios
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 
 Úsalo cuando la pregunta de negocio sea, en el fondo, "no le puedo vender a todos igual, ¿entonces a quién y cómo?". En concreto:

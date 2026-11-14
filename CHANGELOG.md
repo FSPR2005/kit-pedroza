@@ -4,6 +4,16 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Versiones:
 Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalado tome los cambios:
 `/plugin marketplace update` y reiniciar Claude Code.
 
+## [0.8.0] · 2026-11-13
+
+### Cambiado
+- `kit-mercadotecnia` pasa de la versión original a la V2.7.3: encuadre obligatorio de mercado, objetivo y
+  restricciones (máximo tres preguntas); 12 procedimientos (P01-P12) para investigar, segmentar, elegir mercado
+  meta, posicionar y decidir la mezcla; registro de tasas y control de unidades al comparar segmentos; niveles de
+  conclusión (selección, recomendación provisional o sin base) y piloto de un solo segmento cuando solo se puede
+  atender uno. Detalle por versión en `skills/kit-mercadotecnia/CHANGELOG.md`.
+- Validada con pruebas a ciegas de dos jueces (Opus y Codex) contra versiones anteriores.
+
 ## [0.7.0] · 2026-10-29
 
 ### Agregado
