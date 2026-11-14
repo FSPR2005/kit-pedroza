@@ -88,6 +88,8 @@ Si aún no tienes claro a quién le hablas o qué te diferencia, vuelve a los m�
 
 **Ejemplo:** para un lanzamiento nuevo, objetivo y tarea; para una marca madura estable, porcentaje de ventas puede bastar.
 
+**Puerta del dinero (antes de activar cualquier gasto en medios).** El monto lo autoriza quien paga, no quien analiza. Antes de activar se escribe y se obtiene el «va» con: monto TOTAL; si el tope es diario o total; moneda; cuenta o medio; fecha de inicio y de fin con zona horaria; y qué se hace si se agota sin resultados. Si falta un dato, no se activa: se pregunta. Que el presupuesto salga del método objetivo y tarea no sustituye el «va».
+
 ### 8. Estrategia push vs. pull
 **Qué es:** hacia dónde diriges el esfuerzo de promoción dentro del canal.
 - **Push (empujar):** el productor empuja el producto hacia los revendedores (venta personal, promoción comercial) y estos lo empujan al consumidor. Foco en el canal.
@@ -126,6 +128,8 @@ La publicidad se desarrolla en cuatro decisiones: **objetivos → presupuesto �
 - **ROAS** (*return on ad spend*) = ingresos de la campaña / costo de la campaña.
 - **CR** (*campaign revenue*) = conversiones totales × valor de vida (*life-time value*) × % de cierre (*closing ratio*).
 - **CPA** (*cost per acquisition*) = costo / conversiones.
+
+**Contrato mínimo de datos.** Toda métrica se reporta con fórmula, ventana (24 h, 72 h, 7 d), zona horaria y alcance (orgánico y pagado por separado). Denominador 0 = «no calculable», nunca 0. Dato ausente = «sin dato», nunca 0. ROAS = ingresos atribuibles / gasto, en la misma moneda y ventana. CPA = gasto / conversiones. Una observación aislada es una pista, no una regla: se repite o se compara contra la mediana propia antes de volverla regla.
 
 **9.6 Dos tipos de resultados a evaluar:** *efectos de comunicación* (¿el anuncio comunica bien? se prueba antes o después de publicar) y *efectos sobre ventas y beneficios* (comparar ventas/ganancias vs. gasto, o vía experimentos; incluye la atribución).
 

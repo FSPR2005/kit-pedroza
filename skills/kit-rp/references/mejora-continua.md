@@ -23,14 +23,20 @@ Formato, una entrada por hecho y fecha absoluta:
 ## 2026-10-29 · [falla | hueco | resultado | idea] · <paso de la skill>
 Qué pasó: una frase, sin nombres de prospectos ni datos de contacto (usa el id del CRM).
 Qué se cambiaría: la regla en imperativo.
-Evidencia: el id del toque o del borrador, o la cifra (p. ej., 0 respuestas en 20 envíos).
+Evidencia: el id del toque o del borrador, o la cifra (p. ej., 0 respuestas útiles en 60 destinatarios distintos).
 ```
 
 ## 2. Medir
 
 Al cerrar cada tanda, cruza la hoja de toques del CRM con lo que se usó: respuestas por plantilla, por
-segmento y por tipo de hallazgo del diagnóstico (`diagnostico.md`). Una plantilla o un tipo de hallazgo con
-0 respuestas en 20 envíos se cambia; lo que funciona se anota como «resultado».
+segmento y por tipo de hallazgo del diagnóstico (`diagnostico.md`). Antes de decidir, se define la unidad: un
+destinatario distinto cuenta una vez (los seguimientos al mismo destinatario no son envíos independientes),
+«respuesta útil» excluye rebotes y bajas, y la ventana es de 14 días tras el último toque. Una plantilla o un
+tipo de hallazgo se cambia con 60 o más destinatarios distintos sin respuesta útil (con una tasa supuesta de
+5.6 %, 0 de 60 por azar es 3 %; con 3.3 %, 13 %: el umbral reduce el error, no lo elimina) o con comparación
+directa: la misma lista partida al azar entre dos plantillas. Con menos destinatarios se anota «pista, no
+prueba». Las tasas del benchmark son de proveedores [H]; se sustituyen por la tasa propia en cuanto exista. Lo
+que funciona se anota como «resultado».
 
 ## 3. Consolidar (con el «va» del usuario)
 

@@ -4,6 +4,16 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Versiones:
 Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalado tome los cambios:
 `/plugin marketplace update` y reiniciar Claude Code.
 
+## [0.7.1] · 2026-11-14
+
+### Cambiado
+- `kit-mercadotecnia`, referencia `11`: «Puerta del dinero» (quién autoriza el gasto en medios y con qué datos) y
+  «Contrato mínimo de datos» para métricas; referencia `07`: error típico de segmentar por el público que se cree
+  tener.
+- `kit-persuasion`: error típico de extrapolar los grados a contenido masivo, alcance o política (0.1.2).
+- `kit-rp`, `mejora-continua.md`: la regla de cambiar una plantilla pasa de «0 respuestas en 20 envíos» a 60
+  destinatarios distintos sin respuesta útil, con unidad, ventana y comparación directa.
+
 ## [0.7.0] · 2026-10-29
 
 ### Agregado

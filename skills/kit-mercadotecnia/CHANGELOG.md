@@ -2,6 +2,11 @@
 
 Formato: fecha (YYYY-MM-DD) · qué cambió · fuente o razón.
 
+## 2026-11-14 — Tres correcciones de auditoría
+
+- **11** — «Puerta del dinero» al final del marco 7 (quién autoriza el gasto y con qué datos) y «Contrato mínimo de datos» bajo 9.5 (fórmula, ventana, denominador 0).
+- **07** — Error típico «Segmentar por el público que se cree tener»: verificar con la analítica y presentar la estimación como cota.
+
 ## 2026-07-15 — Auditoría de cobertura contra el material semilla
 
 Razón: auditoría exhaustiva de la skill contra las 19 sesiones del compilado

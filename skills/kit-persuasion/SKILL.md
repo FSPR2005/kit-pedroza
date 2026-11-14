@@ -83,6 +83,7 @@ Si el usuario pide solo revisar, devuelve primero los cambios (antes → despué
   conceder (O'Keefe, 1999).
 - **Poner el elogio antes del «pero»** cuando lo que querías que pesara era el elogio.
 - **Mirar fijo para «dominar».** En un desacuerdo, más contacto visual persuade menos (Chen y colegas, 2013).
+- **Extrapolar a contenido masivo.** Los grados de este kit vienen de estudios de persuasión interpersonal o de laboratorio. No dicen nada sobre alcance, algoritmos, pauta ni contenido político en redes: para eso se usa la skill de redes y sus propias fuentes.
 
 ## Anticontaminación
 
