@@ -3,7 +3,30 @@
 > Fuentes de apoyo (marco regulatorio de privacidad citado en el material):
 > Reglamento (UE) 2016/679 — *General Data Protection Regulation* (GDPR).
 > Children's Online Privacy Protection Act — COPPA, 15 U.S.C. §§ 6501-6506 (EE. UU.).
-> Ley Federal de Protección de Datos Personales en Posesión de los Particulares — LFPDPPP (México, 2010).
+> Ley Federal de Protección de Datos Personales en Posesión de los Particulares — LFPDPPP (México; nueva ley, DOF 2025-03-20; última reforma DOF 2025-11-14; abrogó la de 2010).
+
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. Proceso de comunicación (modelo emisor-receptor)
+  - 2. Mezcla de promoción / comunicación (5 herramientas)
+  - 3. Comunicaciones integradas de marketing (IMC)
+  - 4. Proceso de 6 pasos para comunicación eficaz (A-F)
+  - 5. Modelo AIDA (diseño del mensaje)
+  - 6. Tres atractivos del contenido del mensaje
+  - 7. Cuatro métodos para fijar el presupuesto de promoción
+  - 8. Estrategia push vs. pull
+  - 9. Programa de publicidad — las 4 decisiones
+  - 10. Relaciones públicas (RRPP) y sus funciones
+  - 11. Promoción de ventas — públicos, herramientas y programa
+  - 12. Marketing directo vs. marketing digital
+  - 13. Embudo de marketing digital
+  - 14. Herramientas digitales y de redes/móvil
+  - 15. Inconvenientes, ética y privacidad del marketing directo y digital
+  - 16. Comunicación de marketing socialmente responsable
+- Sugerencias de investigación de mercado
+- Errores típicos
 
 ## Cuándo usar este módulo
 
@@ -121,13 +144,20 @@ La publicidad se desarrolla en cuatro decisiones: **objetivos → presupuesto �
 |---|---|
 | **Alcance** | % del mercado objetivo expuesto a la campaña en un periodo. |
 | **Frecuencia** | Cuántas veces la persona promedio queda expuesta al mensaje. |
-| **Impacto** | Cantidad de exposiciones a través de un medio determinado. |
+| **Impacto** | Cantidad de exposiciones a través de un medio determinado. *(Así lo define el curso. En K&A el impacto es el valor cualitativo de una exposición en un medio dado: el mismo mensaje pesa distinto según el medio. Usa la acepción que corresponda y dila.)* |
 | **Engagement** | Acciones del consumidor: ratings, likes, compartidos, tasa de clics. |
 
 **9.5 Métricas de eficacia (retorno de la inversión publicitaria):**
-- **ROAS** (*return on ad spend*) = ingresos de la campaña / costo de la campaña.
-- **CR** (*campaign revenue*) = conversiones totales × valor de vida (*life-time value*) × % de cierre (*closing ratio*).
-- **CPA** (*cost per acquisition*) = costo / conversiones.
+- **ROAS** = ingresos atribuidos a publicidad / gasto publicitario; declarar
+  periodo, fuente y regla de atribución. No demuestra utilidad ni incrementalidad.
+- **Ingresos observados** = suma de ventas registradas en la ventana definida.
+  En una proyección desde prospectos: prospectos × tasa de cierre × ingreso
+  promedio por cliente en el horizonte, con insumos compatibles. No aplicar
+  cierre de nuevo si la conversión ya representa un cliente adquirido.
+- **CPA** = costo declarado / adquisiciones de la acción definida. Si se mide
+  adquisición de clientes, contar clientes nuevos, no cualquier evento.
+- Separar ingreso de contribución y CLV; definir margen, retención, horizonte
+  y descuento cuando corresponda. La atribución no prueba causalidad.
 
 **Contrato mínimo de datos.** Toda métrica se reporta con fórmula, ventana (24 h, 72 h, 7 d), zona horaria y alcance (orgánico y pagado por separado). Denominador 0 = «no calculable», nunca 0. Dato ausente = «sin dato», nunca 0. ROAS = ingresos atribuibles / gasto, en la misma moneda y ventana. CPA = gasto / conversiones. Una observación aislada es una pista, no una regla: se repite o se compara contra la mediana propia antes de volverla regla.
 
@@ -184,9 +214,14 @@ La publicidad se desarrolla en cuatro decisiones: **objetivos → presupuesto �
 ### 15. Inconvenientes, ética y privacidad del marketing directo y digital
 **Excesos a evitar:** *injusticia* (aprovecharse de compradores impulsivos o poco sofisticados), *engaño* (textos diseñados para confundir), *fraude* (robo de identidad, *phishing*) y *privacidad* (tener y usar demasiada información del cliente).
 **Marco regulatorio citado:**
-- **GDPR** (UE): requisitos estrictos para recopilar y proteger datos personales; da control al ciudadano. Sus 7 principios: limitación de la finalidad, licitud, minimización de datos, confidencialidad, exactitud, responsabilidad proactiva (*accountability*) y limitación del plazo de conservación.
+- **GDPR** (UE): requisitos estrictos para recopilar y proteger datos personales; da control al ciudadano. Principios del artículo 5: licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva (*accountability*).
 - **COPPA** (EE. UU.): protección de la privacidad en línea de menores.
-- **LFPDPPP** (México): Ley Federal de Protección de Datos Personales en Posesión de los Particulares — rige cómo las empresas privadas tratan datos personales en el país. *(En el material del curso aparece como "Ley Federal de Protección de Datos Personales"; el nombre vigente completo es el anterior.)*
+- **LFPDPPP** (México): Ley Federal de Protección de Datos Personales en Posesión de los Particulares — rige cómo las empresas privadas tratan datos personales en el país. Ley nueva publicada en el DOF el 2025-03-20, en vigor al día siguiente; abrogó la de 2010 (DOF 2010-07-05). Última reforma publicada: DOF 2025-11-14 (texto vigente de la Cámara de Diputados, consultado el 2026-11-10). Puntos útiles para marketing:
+  - Principios (art. 5): licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad.
+  - Aviso de privacidad: contenido mínimo (art. 15) y puesta a disposición (art. 16).
+  - Consentimiento (art. 7): por regla general vale el tácito; los datos financieros o patrimoniales requieren consentimiento expreso; los datos sensibles, expreso y por escrito (art. 8). En salud (por ejemplo, una clínica), los datos de pacientes suelen ser sensibles.
+  - Autoridad: la ley define como "Secretaría" a la Secretaría Anticorrupción y Buen Gobierno (art. 2); el INAI desapareció y sus menciones se entienden hechas a los entes que asumieron sus funciones (transitorio cuarto).
+  - Esto orienta qué revisar; no es asesoría jurídica. Antes de citar artículos, revisa el texto vigente, que puede tener reformas posteriores. *(En el material del curso aparece como "Ley Federal de Protección de Datos Personales".)*
 
 ### 16. Comunicación de marketing socialmente responsable
 Reglas mínimas: comunicar abierta y honestamente; evitar publicidad engañosa o falsa; cumplir toda regulación federal, estatal y local; seguir las reglas de competencia justa; no menospreciar a competidores ni a sus productos.
@@ -215,6 +250,6 @@ Reglas mínimas: comunicar abierta y honestamente; evitar publicidad engañosa o
 - **Confundir alcance con frecuencia.** Llegar a mucha gente una vez no es lo mismo que impactar a la gente correcta varias veces; el plan de medios balancea ambas contra el objetivo.
 - **Volverse adicto a la promoción de ventas.** El descuento sube el volumen hoy y erosiona la marca y el precio de referencia mañana. Cuida el tamaño, las condiciones y la duración; una promoción sin fecha de fin es un precio nuevo.
 - **Comparativa temeraria.** La publicidad comparativa invita respuesta del competidor y riesgo legal; úsala solo con evidencia sólida y asesoría.
-- **Publicidad comparativa vs. RRPP mal calibradas.** Pagar publicidad cuando una buena historia ganaría cobertura editorial gratis y más creíble es quemar presupuesto.
+- **Publicidad y RRPP mal calibradas.** Pagar publicidad cuando una buena historia ganaría cobertura editorial gratis y más creíble es quemar presupuesto.
 - **Tratar la privacidad como trámite.** Recopilar datos "porque se puede" sin base legal ni consentimiento expone a sanción (GDPR, LFPDPPP) y a daño reputacional. La minimización de datos es regla, no opción.
 - **Push sin pull (o al revés).** Llenar el canal sin crear demanda deja producto parado en anaquel; crear demanda sin asegurar disponibilidad manda al cliente a comprar al competidor.

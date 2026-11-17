@@ -1,5 +1,29 @@
 # Producto, servicios, marca y nuevos productos
-> Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Fuentes complementarias: American Marketing Association (AMA). *Dictionary — Innovation*; Brown, T. (2009). *Change by Design*. HarperBusiness (definición de innovación de IDEO); Day, G. S. (2007). "Is It Real? Can We Win? Is It Worth Doing?" *Harvard Business Review* (marco RWW); Ries, E. (2011). *The Lean Startup*. Crown Business (MVP); Interbrand. (2024). *Best Global Brands 2024*; Beloved Brands. *Ladder up to emotional benefits* (escalera de posicionamiento); Aaker, J. L. (1997). Dimensions of brand personality. *Journal of Marketing Research, 34*(3) (personalidad de marca); Thompson, C. (1992). *What a Great Idea!* / (1994). *Yes, But…* (killer phrases).
+> Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Fuentes complementarias: American Marketing Association (AMA). *Dictionary — Innovation*; Brown, T. (2009). *Change by Design*. HarperBusiness (definición de innovación de IDEO); Day, G. S. (2007). "Is It Real? Can We Win? Is It Worth Doing?" *Harvard Business Review* (marco RWW); Ries, E. (2011). *The Lean Startup*. Crown Business (MVP); Interbrand. (2026). *Best Global Brands 2026*; Beloved Brands. *Ladder up to emotional benefits* (escalera de posicionamiento); Aaker, J. L. (1997). Dimensions of brand personality. *Journal of Marketing Research, 34*(3) (personalidad de marca); Thompson, C. (1992). *What a Great Idea!* / Thompson, C. y Lyons, L. (1993). *Yes, But…* (killer phrases).
+
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. Los tres niveles de producto
+  - 2. Clasificación de productos de consumo
+  - 3. Productos industriales
+  - 4. Atributos y decisiones de producto individual
+  - 5. Líneas y mezcla de productos
+  - 6. Naturaleza de los servicios: las 4 características
+  - 7. Cadena servicio-beneficio y las tres formas de marketing de servicios
+  - 8. Marca, brand equity y brand value
+  - 9. Las 4 decisiones de estrategia de marca
+  - 10. Innovación: Do Better vs. Do Different
+  - 11. Proceso de desarrollo de nuevos productos (8 etapas)
+  - 12. Marco RWW (Real – Win – Worth)
+  - 13. MVP y prototipos
+  - 14. Embudo de innovación
+  - 15. Ciclo de vida del producto (PLC, 5 etapas)
+  - 16. Consideraciones adicionales: regulación e internacionalización del producto
+  - 17. Proceso de adopción del consumidor
+- Sugerencias de investigación de mercado
+- Errores típicos
 
 ## Cuándo usar este módulo
 Úsalo cuando la decisión sea sobre **qué vendes y cómo lo empaquetas como oferta**, no sobre a quién ni a qué precio. Preguntas de negocio típicas:
@@ -101,7 +125,7 @@ Por eso el servicio exige tres frentes de marketing (triángulo Compañía–Emp
 Primero el concepto base. **Marca (brand):** nombre, término, signo, símbolo o diseño —o una combinación de estos— que identifica al fabricante o vendedor de un producto o servicio. Pero una marca es mucho más que el nombre y el logo: representa **todo lo que el producto o servicio significa para los consumidores** — sus percepciones y sentimientos sobre él y su desempeño, lo tangible y lo intangible. Por eso la marca vive en la mente del cliente y puede valer más que los activos físicos. Sobre esa base se montan dos conceptos que se confunden:
 
 - **Brand equity (valor de marca):** el efecto diferencial que el conocimiento de la marca tiene sobre la respuesta del cliente al producto y su marketing. Es su impacto en la conducta de compra y en la percepción. (Es un activo intangible, no un número.)
-- **Brand value (valor de la marca):** el valor financiero total de la marca — el brand equity cuantificado en $. Es lo que reportan rankings como **Interbrand Best Global Brands** (p. ej. Interbrand 2024 encabezado por Apple, Microsoft y Amazon; solo como ilustración).
+- **Brand value (valor de la marca):** el valor financiero total de la marca — el brand equity cuantificado en $. Es lo que reportan rankings como **Interbrand Best Global Brands** (p. ej. la edición 2026 encabezada por Apple, Microsoft y Google; Amazon bajó al cuarto lugar; consultado el 2026-11-10 en interbrand.com; solo como ilustración, el ranking cambia cada año).
 
 **Ventajas de un alto brand equity:** más conocimiento y lealtad; extensiones de línea/marca más fáciles; defensa ante ataques de la competencia; más poder de negociación con los canales.
 
@@ -145,6 +169,19 @@ Embudo de decisión: en cada etapa se filtra; un "No" temprano manda a *descarta
 | 7 | **Prueba de mercado** | Probar producto + programa en un entorno real. Vale la pena cuando hay gran inversión o incertidumbre. Puede ser **controlada** (paneles/tiendas) o **simulada** (laboratorio/entorno de compra online) |
 | 8 | **Comercialización** | Lanzar. Decidir **cuándo** (competencia, otros proyectos), **dónde** (local/regional/global), comunicar y entregar la oferta de valor |
 
+**Pregunta de paso en cada etapa [Curso].** El curso presenta el proceso como compuertas: si la respuesta es "no", la idea se descarta, se regresa a desarrollo o se replantea.
+
+| Etapa | Pregunta para pasar a la siguiente |
+|---|---|
+| 1. Generación | ¿Vale la pena considerar la idea? |
+| 2. Evaluación | ¿Es compatible con los objetivos, estrategias y recursos de la empresa? |
+| 3. Concepto | ¿Hay un buen concepto que los consumidores acepten probar? |
+| 4. Estrategia de marketing | ¿Hay una estrategia de marketing viable y redituable? |
+| 5. Análisis del negocio | ¿El producto podrá cumplir la meta de utilidades? |
+| 6. Desarrollo | ¿El producto tiene solidez técnica y comercial? |
+| 7. Prueba de mercado | ¿Las ventas cumplieron las expectativas? Si no, ¿regresa a desarrollo? |
+| 8. Comercialización | ¿Las ventas siguen cumpliendo las expectativas? Si no, ¿se modifica el producto o el programa de marketing? |
+
 ### 12. Marco RWW (Real – Win – Worth)
 Filtro de tres preguntas para la evaluación de ideas (etapa 2):
 - **¿Es real (Real)?** ¿Existe la necesidad y el mercado? ¿Se puede hacer el producto?
@@ -152,7 +189,9 @@ Filtro de tres preguntas para la evaluación de ideas (etapa 2):
 - **¿Vale la pena (Worth)?** ¿Es rentable y encaja con la estrategia?
 Si alguna respuesta es "no", se descarta o se replantea.
 
-**El otro filtro: las frases que matan ideas (killer phrases).** El RWW filtra la calidad de la idea; la resistencia organizacional la mata antes de llegar ahí. Objeciones típicas que frenan ideas sin evaluarlas: "no funcionará aquí", "ya lo intentamos antes", "no es el momento", "no es como hacemos las cosas", "nos ha ido bien sin eso", "costará demasiado", "discutámoslo en la próxima junta" (Thompson, 1992/1994). Anticiparlas es parte de gestionar la innovación: la respuesta correcta no es ceder ni ignorarlas, sino convertirlas en preguntas evaluables ("¿qué evidencia diría que sí funciona aquí?") y pasarlas por el filtro técnico.
+**Versión completa del autor [Externo: Day, 2007].** El curso usa las tres preguntas. En el artículo original cada una se abre en dos, y conviene usar las seis cuando la inversión es grande: **Real** = ¿el mercado es real? y ¿el producto es real (se puede hacer y satisface la necesidad)?; **Win** = ¿el producto puede competir? y ¿la empresa puede competir?; **Worth** = ¿será rentable con un riesgo aceptable? y ¿lanzarlo tiene sentido estratégico?
+
+**El otro filtro: las frases que matan ideas (killer phrases).** El RWW filtra la calidad de la idea; la resistencia organizacional la mata antes de llegar ahí. Objeciones típicas que frenan ideas sin evaluarlas: "no funcionará aquí", "ya lo intentamos antes", "no es el momento", "no es como hacemos las cosas", "nos ha ido bien sin eso", "costará demasiado", "discutámoslo en la próxima junta" (Thompson, 1992; Thompson y Lyons, 1993; también aparecen en el material del curso). Anticiparlas es parte de gestionar la innovación: la respuesta correcta no es ceder ni ignorarlas, sino convertirlas en preguntas evaluables ("¿qué evidencia diría que sí funciona aquí?") y pasarlas por el filtro técnico.
 
 ### 13. MVP y prototipos
 - **Prototipo:** modelo de trabajo para depurar la idea antes de crear la oferta real.
@@ -183,6 +222,8 @@ Dos decisiones que Kotler añade al desarrollo de producto y que suelen olvidars
 
 ### 17. Proceso de adopción del consumidor
 Se refiere a la **disposición del consumidor a probar** un producto nuevo. Guía la comunicación en el lanzamiento: primero se atacan los adoptadores tempranos y luego se busca cruzar hacia la mayoría. (En Kotler, las etapas estándar son conciencia → interés → evaluación → prueba → adopción — *definición estándar del libro*.)
+
+**Categorías de adoptantes [Curso; modelo de difusión de innovaciones].** El curso las presenta con su proporción típica: innovadores 2.5%, adoptantes tempranos 13.5%, mayoría temprana 34%, mayoría tardía 34% y rezagados 16% (suman 100%). Son proporciones de un modelo teórico (curva normal), no datos de ningún mercado: sirven para decidir a quién hablarle primero en un lanzamiento, no para estimar ventas.
 
 ## Sugerencias de investigación de mercado
 

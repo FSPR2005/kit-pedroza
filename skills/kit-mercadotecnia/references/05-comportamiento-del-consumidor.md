@@ -4,6 +4,24 @@
 > - Maslow, A. H. (1943). A theory of human motivation. *Psychological Review, 50*(4), 370-396.
 > - Court, D., Elzinga, D., Mulder, S. y Vetvik, O. J. (2009). The consumer decision journey. *McKinsey Quarterly*.
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. Modelo de caja negra (estímulo → caja negra → respuesta)
+  - 2. Cuatro grupos de factores que influyen en la compra
+  - 3. Los cuatro procesos psicológicos
+  - 4. Proceso de decisión de compra (5 etapas)
+  - 5. Conjuntos de decisión (embudo de marcas)
+  - 6. Riesgo percibido
+  - 7. Comportamiento poscompra
+  - 8. Customer Journey (recorrido del cliente)
+  - 9. Consumer Decision Journey (McKinsey)
+  - 10. Marketing Funnel (embudo de marketing)
+  - 11. Tipos de comportamiento de decisión de compra
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 Úsalo cuando la pregunta de negocio sea sobre la *persona que compra*, no sobre el mercado agregado ni el producto:
 
@@ -181,6 +199,18 @@ Dos piezas clave:
 | (base) | **Loyalty** | Retención y recompra |
 
 **Cuándo usarlo.** Para alinear marketing y ventas y asignar KPIs por etapa (leads generados, tasa de conversión entre etapas, costo por etapa).
+
+### 11. Tipos de comportamiento de decisión de compra
+**Origen.** Es uno de los objetivos declarados de la sesión de comportamiento del consumidor del curso ("definir los principales tipos de comportamiento de decisión de compra"); el desarrollo es de [K&A cap. 5]. No se cotejó página por página contra el libro.
+
+**Qué es.** Cuatro tipos según el **involucramiento** del comprador y las **diferencias percibidas entre marcas**:
+
+| | Marcas muy distintas | Marcas parecidas |
+|---|---|---|
+| **Alto involucramiento** | **Complejo:** el comprador investiga y aprende; la marca debe enseñar atributos y su importancia | **Reductor de disonancia:** compra rápida y luego busca confirmar que eligió bien; la marca debe dar tranquilidad después de la compra |
+| **Bajo involucramiento** | **Búsqueda de variedad:** cambia de marca por probar; el líder busca la compra habitual (anaquel, recordación) y el retador incentiva el cambio | **Habitual:** compra por costumbre, sin evaluar mucho; pesan el precio, la promoción, la disponibilidad y la repetición publicitaria |
+
+**Cuándo usarlo.** Antes de diseñar comunicación o promoción: define si el cliente necesita información (complejo), confirmación (disonancia), recordación y disponibilidad (habitual) o un motivo para cambiar (variedad).
 
 ## Sugerencias de investigación de mercado
 

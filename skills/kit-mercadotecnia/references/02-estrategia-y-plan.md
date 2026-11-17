@@ -1,5 +1,23 @@
 # Estrategia, plan de marketing y ROI
-> Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Marcos complementarios: Porter, M. E. (1980). *Competitive Strategy*. Free Press; Treacy, M. y Wiersema, F. (1995). *The Discipline of Market Leaders*. Addison-Wesley (disciplinas de valor); Ansoff, H. I. (1957). "Strategies for Diversification". *Harvard Business Review* (matriz producto-mercado); Boston Consulting Group (matriz crecimiento-participación); General Electric / McKinsey (matriz de atractivo del sector); Levitt, T. (1960). "Marketing Myopia". *Harvard Business Review*.
+> Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Marcos complementarios: Porter, M. E. (1980). *Competitive Strategy*. Free Press; Treacy, M. y Wiersema, F. (1993). Customer intimacy and other value disciplines. *Harvard Business Review, 71*(1) (disciplinas de valor; desarrolladas después en el libro *The Discipline of Market Leaders*, 1995); Ansoff, H. I. (1957). "Strategies for Diversification". *Harvard Business Review* (matriz producto-mercado); Boston Consulting Group (matriz crecimiento-participación); General Electric / McKinsey (matriz de atractivo del sector); Levitt, T. (1960). "Marketing Myopia". *Harvard Business Review*.
+
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - Planeación estratégica de la empresa
+  - Administración del portafolio de negocios: BCG y GE-McKinsey
+  - Matriz de Ansoff (expansión producto-mercado)
+  - Estrategia impulsada por el valor del cliente (STP + 4 P)
+  - Análisis de la competencia (3 pasos)
+  - Estrategias competitivas
+  - Equilibrar orientación al cliente y a la competencia
+  - Gestión del esfuerzo de marketing
+  - FODA (SWOT)
+  - Plan de marketing en 8 secciones
+  - ROI de marketing (medición)
+- Sugerencias de investigación de mercado
+- Errores típicos
 
 ## Cuándo usar este módulo
 
@@ -128,7 +146,20 @@ Instrumento central que dirige y coordina el esfuerzo de marketing; se apoya en 
 
 **Checklist de calidad del plan:** ¿es sencillo y breve?, ¿está completo?, ¿es específico (metas, responsables, fechas, montos)?, ¿es realista?
 
-*Ilustración (caso publicado).* Grupo Bimbo estructura su proceso en dos fases: **identificación de oportunidades** (validar posicionamiento y brand equity, estrategia de marca a mediano plazo, revisión del plan anterior, optimización de portafolio, revisión de mercado/tendencias, gasto de marca y precios) que confluyen en detección y priorización de oportunidades por tamaño, impacto y facilidad; y el **plan de marketing** propiamente, donde cada oportunidad seleccionada se abre en estrategias, tácticas, actividades, inversión e impacto en ventas. Muestra cómo una empresa real baja del diagnóstico a la acción con números por iniciativa (fuente: deck corporativo citado en el curso Kotler & Armstrong). Úsalo solo como referencia de estructura, no como plantilla obligada.
+*Ilustración (caso publicado).* Grupo Bimbo estructura su proceso en dos fases: **identificación de oportunidades** (validar posicionamiento y brand equity, estrategia de marca a mediano plazo, revisión del plan anterior, optimización de portafolio, revisión de mercado/tendencias, gasto de marca y precios) que confluyen en detección y priorización de oportunidades por tamaño, impacto y facilidad; y el **plan de marketing** propiamente, donde cada oportunidad seleccionada se abre en estrategias, tácticas, actividades, inversión e impacto en ventas. Muestra cómo una empresa real baja del diagnóstico a la acción con números por iniciativa (fuente: material corporativo presentado en el curso; no se localizó una versión publicada). Úsalo solo como referencia de estructura, no como plantilla obligada.
+
+**Pregunta estratégica del plan [Curso].** Antes de las secciones, el ejemplo del curso formula la pregunta que el plan debe responder, en este molde:
+
+> ¿Cómo puede **[marca]** **[expandir la demanda del mercado / proteger la demanda actual / elevar su participación]**, PARA **superar** [problemas: pérdida de consumidores, percepción negativa de la categoría…] y/o **aprovechar** [oportunidades: punto de venta, lanzamientos, exigencias del consumidor…], PARA **generar** [resultado medible: venta incremental, liderazgo]?
+
+Los tres verbos son las estrategias del líder de mercado (expandir el mercado total, proteger la participación, ampliarla). La pregunta amarra el plan a un resultado medible y evita listas de acciones sin rumbo. Si el resultado no tiene cifra, se marca como falta. [Kit] Los problemas y las oportunidades se toman de lo que dio el cliente o de lo que se investigó; si no hay, la pregunta dice que están por identificar o por validar, en lugar de llenarlos con suposiciones.
+
+**Tabla de programas de acción [Curso].** El ejemplo de plan que usa el curso baja cada línea de acción a una tabla con estas columnas, que convierte la sección 6 en algo que se puede ejecutar y medir:
+
+| Línea de acción | Actividad | Objetivo | Razón (dato que la justifica) | Acciones | Inversión | Impacto esperado (ventas · rentabilidad · otros) | Fechas (trimestre) | Responsable |
+|---|---|---|---|---|---|---|---|---|
+
+Reglas: la columna "Razón" lleva el dato con su fuente (si es supuesto, se marca); el impacto se estima con el cálculo a la vista; la suma de inversiones cuadra con la sección 7 (presupuesto). La columna "Responsable" la agrega el kit [Kit] para cumplir el "¿quién lo hará?" de la sección 6.
 
 ### ROI de marketing (medición)
 **Qué es.** Tratar el gasto de marketing como inversión que produce rendimientos en forma de relaciones más rentables con el cliente, y medirlo.

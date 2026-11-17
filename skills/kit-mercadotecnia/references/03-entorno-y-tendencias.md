@@ -1,6 +1,22 @@
 # Entorno de marketing y análisis de tendencias
 > Fuente principal: Kotler, P. y Armstrong, G. (2021). *Principles of Marketing* (18.ª ed.). Pearson. Fuentes complementarias citadas en los casos ilustrativos: Barney, J. B. (1991). Firm resources and sustained competitive advantage. *Journal of Management, 17*(1) — marco VRIO; Euromonitor International (2025). *Top Global Consumer Trends*; The Futures Company / Global Monitor (megatendencias del consumidor); Lexia Insights & Solutions (cambios de comportamiento).
 
+## Contenido
+
+- Cuándo usar este módulo
+- Marcos y conceptos
+  - 1. El entorno de marketing (definición)
+  - 2. Microentorno — los 6 actores
+  - 3. VRIO — ¿mi ventaja interna es defendible?
+  - 4. Cadena y red de entrega de valor
+  - 5. Macroentorno — las 6 fuerzas
+  - 6. Marketing generacional
+  - 7. Jerarquía: megatendencia > tendencia > moda
+  - 8. Cómo explotar un reporte de tendencias (Euromonitor y similares)
+  - 9. Marketing global: estandarizar vs. adaptar
+- Sugerencias de investigación de mercado
+- Errores típicos
+
 ## Cuándo usar este módulo
 
 Úsalo cuando la pregunta de negocio sea del tipo:
@@ -43,7 +59,7 @@ El trabajo de marketing es crear valor y relaciones con el cliente, pero no lo l
 
 ### 3. VRIO — ¿mi ventaja interna es defendible?
 
-Marco para evaluar si un recurso o capacidad **de la empresa** (el primer actor del microentorno) da ventaja competitiva sostenible. Un recurso vale como ventaja duradera solo si cumple los cuatro criterios:
+[Curso: aparece en la figura del microentorno; fuente original Barney, 1991.] Marco para evaluar si un recurso o capacidad **de la empresa** (el primer actor del microentorno) da ventaja competitiva sostenible. Un recurso vale como ventaja duradera solo si cumple los cuatro criterios:
 
 | Criterio | Pregunta |
 |---|---|
@@ -99,7 +115,7 @@ Un reporte de tendencias no es la decisión; es materia prima. Método para conv
 4. **Aterriza en las 4 P.** Traduce cada tendencia priorizada a una implicación concreta de producto, precio, canal o comunicación. Si no genera una acción en las 4 P, no la accionaste.
 5. **Prioriza por impacto × plazo** y asigna dueño y métrica. Sin dueño, el reporte se archiva.
 
-*Ilustraciones de reportes reales (solo como ejemplo de formato y lenguaje):* Euromonitor *Top Global Consumer Trends 2025* nombra tendencias como *Healthspan Plans*, *Wiser Wallets*, *Eco Logical*, *Filtered Focus* y *AI Ambivalent*; Grupo Bimbo trabajó megatendencias de consumo tipo *Eco-Value Chain*, *Holism* o *Co-creation* y las midió por país (p. ej., % de resonancia en un segmento específico). El valor no está en la lista bonita, sino en el cruce con tu cliente y la bajada a decisiones.
+*Ilustraciones de reportes reales (solo como ejemplo de formato y lenguaje; la edición 2025 ya fue reemplazada por la 2026 — revisa la vigente antes de citar):* Euromonitor *Top Global Consumer Trends 2025* nombra tendencias como *Healthspan Plans*, *Wiser Wallets*, *Eco Logical*, *Filtered Focus* y *AI Ambivalent*; Grupo Bimbo trabajó megatendencias de consumo tipo *Eco-Value Chain*, *Holism* o *Co-creation* y las midió por país (p. ej., % de resonancia en un segmento específico). El valor no está en la lista bonita, sino en el cruce con tu cliente y la bajada a decisiones.
 
 ### 9. Marketing global: estandarizar vs. adaptar
 
