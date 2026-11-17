@@ -1,5 +1,9 @@
 # Cambios de kit-persuasion
 
+## 0.1.2 — 2026-11-14
+
+- Error típico nuevo: no extrapolar los grados de la skill a contenido masivo, alcance ni política en redes.
+
 ## 0.1.1 — 2026-10-23
 
 - Límite ético explícito en cuatro técnicas que no lo traían: fabricar discusiones para perderlas, comparar con

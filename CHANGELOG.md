@@ -12,7 +12,17 @@ Cada versión tiene su etiqueta `vX.Y.Z` en el repo. Para que un perfil instalad
   meta, posicionar y decidir la mezcla; registro de tasas y control de unidades al comparar segmentos; niveles de
   conclusión (selección, recomendación provisional o sin base) y piloto de un solo segmento cuando solo se puede
   atender uno. Detalle por versión en `skills/kit-mercadotecnia/CHANGELOG.md`.
+- Conserva las correcciones de `kit-mercadotecnia` de la 0.7.1 (referencias `07` y `11`).
 - Validada con pruebas a ciegas de dos jueces (Opus y Codex) contra versiones anteriores.
+## [0.7.1] · 2026-11-14
+
+### Cambiado
+- `kit-mercadotecnia`, referencia `11`: «Puerta del dinero» (quién autoriza el gasto en medios y con qué datos) y
+  «Contrato mínimo de datos» para métricas; referencia `07`: error típico de segmentar por el público que se cree
+  tener.
+- `kit-persuasion`: error típico de extrapolar los grados a contenido masivo, alcance o política (0.1.2).
+- `kit-rp`, `mejora-continua.md`: la regla de cambiar una plantilla pasa de «0 respuestas en 20 envíos» a 60
+  destinatarios distintos sin respuesta útil, con unidad, ventana y comparación directa.
 
 ## [0.7.0] · 2026-10-29
 

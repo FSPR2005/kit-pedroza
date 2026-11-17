@@ -8,7 +8,12 @@ Formato: fecha (YYYY-MM-DD) · qué cambió · fuente o razón.
 - **P05, cómo interpretar:** compradores no son compras (frecuencia y unidades no cuentan compradores) y cada umbral de cambio usa una sola tasa con su denominador.
 - **Módulo 06, paso 4:** se separa en 4a (compradores en el periodo) y 4b (unidades); el ejemplo muestra 292,500 personas antes de las 3,510,000 unidades, sin cambiar los demás cálculos.
 - **Razón:** en las pruebas ciegas de la V2.7.2, sus respuestas a tres casos nuevos (var8 a var10) declararon sesgos sin evidencia, multiplicaron compradores por compras en el periodo y mezclaron denominadores en un umbral.
+- **Incluye** las tres correcciones del 2026-11-14 en los módulos 07 y 11 (entrada de abajo).
 
+## 2026-11-14 — Tres correcciones de auditoría
+
+- **11** — «Puerta del dinero» al final del marco 7 (quién autoriza el gasto y con qué datos) y «Contrato mínimo de datos» bajo 9.5 (fórmula, ventana, denominador 0).
+- **07** — Error típico «Segmentar por el público que se cree tener»: verificar con la analítica y presentar la estimación como cota.
 ## 2026-11-12 — PROPUESTA V2.7.2 (no integrada; base: V2.7.1)
 
 - **SKILL, encuadre:** mercado, resultado, medición y restricciones compartidos; máximo de tres preguntas, supuestos explícitos y correcciones ligadas al objetivo.
